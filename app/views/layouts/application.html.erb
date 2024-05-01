@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="google-site-verification" content="qCqj0eiB2bjaNNLazqNyKFQqcSyhhTXg0t-_5uDsdNs" />
+  <title>Piscinas MG</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+    <link rel="shortcut icon" type="image/png" href=<%= asset_path 'water_64.png' %> />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E=" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+
+    <link href="https://unpkg.com/nanogallery2@2.4.1/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.1/dist/jquery.nanogallery2.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script data-ad-client="ca-pub-9985971964969361" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body data-spy="scroll" data-target=".mainmenu-area">
+
+    <!-- Preloader-content -->
+    <div class="preloader">
+        <span><i class="lnr lnr-drop"></i></span>
+    </div>
+
+    <!-- MainMenu-Area -->
+    <nav class="mainmenu-area" data-spy="affix" data-offset-top="200">
+
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary_menu">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/#about_page"><img src=<%= asset_path 'logo.png' %> alt="logo"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="primary_menu">
+                <ul class="nav navbar-nav mainmenu">
+                    <li><a href="/#features_page">Galeria</a></li>
+                    <li><a href="/#video_section">Proyecto MG</a></li>
+                    <li><a href="/#customers_section">Clientes</a></li>
+                    <li><a href="/#contact_page">Contacto</a></li>
+                </ul>
+            </div>
+
+    </nav>
+
+    <!-- MainMenu-Area-End -->
+
+    <a href="https://api.whatsapp.com/send?phone=573122861927&text=Hola, quisiera conocer más sobre sus productos."
+        class="whatsapp-api-link" target="_blank">
+        <i class="fa fa-whatsapp whatsapp-api"></i>
+    </a>
+
+  <%= yield %>
+</body>
+
+</html>

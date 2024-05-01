@@ -1,0 +1,75 @@
+<div class="container-fluid feature-area">
+    <div class="row mx-auto">
+        <div class="space-100"></div>
+        <div class="space-30"></div>
+        <div class="col-md-10 col-sm-offset-1">
+            <div class="col-md-6">
+                <div class="page-title text-center">
+                    <h5 class="title">
+                        <%= @proyect.name %>
+                    </h5>
+                    <h3>
+                        <%= @proyect.subtitle %>
+                    </h3>
+                    <div class="space-10"></div>
+                </div>
+                <p class="text-justify">
+                    <%= @proyect.description %>
+                </p>
+
+                <div class="space-30"></div>
+
+                <iframe width="100%" height="300" src=<%= @proyect.youtube %> frameborder="0" allow="accelerometer; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+
+            </div>
+
+            <div class="col-md-6">
+
+                <div id="nanogallery2" data-nanogallery2='{
+                    "thumbnailHeight":  400,
+                    "thumbnailWidth":   400,
+                    "thumbnailBorderHorizontal": 0,
+                    "thumbnailBorderVertical":   0,
+                    "thumbnailL1GutterHeight":   20,   "thumbnailL1GutterWidth":    20,
+                    "thumbnailStacks":           4,
+                    "thumbnailStacksTranslateZ": 0.3,
+                    "thumbnailStacksRotateX":    0.9,
+                    "galleryBuildInit2":         "perspective_900px|perspective-origin_50% 150%"
+                  }'>
+
+                  <% @images.each do |image| %>
+                    <a href=<%=asset_path image.image_name %> data-ngthumb=<%=asset_path image.thumb_name %>></a>
+                <% end %>
+
+            </div>
+
+        </div>
+
+        <div class="space-50"></div>
+        </div>
+        </div>
+</div>
+
+<!-- Footer-Bootom -->
+<div class="footer-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 text-center">
+                <span> Powered by <a href="https://56kz.github.io/#contact" target="_blank" style="color:black">Verzion56</a></span>
+                <div class="space-30 hidden visible-xs"></div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Footer-Bootom-End -->
+</footer>
+<!-- Footer-Area-End -->
+
+<script>
+
+    $(".mainmenu-area").css("background-color", "rgba(0, 0, 0, 0.6)");
+    $('.preloader').fadeOut(500);
+
+</script>
