@@ -1,7 +1,48 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+ProjectImage.create!([
+  {image_name: "resize_norteamerica1.jpg", thumb_name: "thumbnail_norteamerica1.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica2.jpg", thumb_name: "thumbnail_norteamerica2.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica3.jpg", thumb_name: "thumbnail_norteamerica3.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica4.jpg", thumb_name: "thumbnail_norteamerica4.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica5.jpg", thumb_name: "thumbnail_norteamerica5.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica6.jpg", thumb_name: "thumbnail_norteamerica6.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica7.jpg", thumb_name: "thumbnail_norteamerica7.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica8.jpg", thumb_name: "thumbnail_norteamerica8.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica9.jpg", thumb_name: "thumbnail_norteamerica9.jpg", project_name: "norteamerica"},
+  {image_name: "resize_norteamerica10.jpg", thumb_name: "thumbnail_norteamerica10.jpg", project_name: "norteamerica"},
+  {image_name: "resize_cal1.jpg", thumb_name: "thumbnail_cal1.jpg", project_name: "cal"},
+  {image_name: "resize_cal2.jpg", thumb_name: "thumbnail_cal2.jpg", project_name: "cal"},
+  {image_name: "resize_cal3.jpg", thumb_name: "thumbnail_cal3.jpg", project_name: "cal"},
+  {image_name: "resize_cal4.jpg", thumb_name: "thumbnail_cal4.jpg", project_name: "cal"},
+  {image_name: "resize_cal5.jpg", thumb_name: "thumbnail_cal5.jpg", project_name: "cal"},
+  {image_name: "resize_cal6.jpg", thumb_name: "thumbnail_cal6.jpg", project_name: "cal"},
+  {image_name: "resize_cal7.jpg", thumb_name: "thumbnail_cal7.jpg", project_name: "cal"},
+  {image_name: "resize_cal8.jpg", thumb_name: "thumbnail_cal8.jpg", project_name: "cal"},
+  {image_name: "resize_cal9.jpg", thumb_name: "thumbnail_cal9.jpg", project_name: "cal"},
+  {image_name: "resize_cal10.jpg", thumb_name: "thumbnail_cal10.jpg", project_name: "cal"},
+  {image_name: "resize_escobero1.jpg", thumb_name: "thumbnail_escobero1.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero2.jpg", thumb_name: "thumbnail_escobero2.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero3.jpg", thumb_name: "thumbnail_escobero3.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero4.jpg", thumb_name: "thumbnail_escobero4.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero5.jpg", thumb_name: "thumbnail_escobero5.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero6.jpg", thumb_name: "thumbnail_escobero6.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero7.jpg", thumb_name: "thumbnail_escobero7.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero8.jpg", thumb_name: "thumbnail_escobero8.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero9.jpg", thumb_name: "thumbnail_escobero9.jpg", project_name: "escobero"},
+  {image_name: "resize_escobero10.jpg", thumb_name: "thumbnail_escobero10.jpg", project_name: "escobero"},
+  {image_name: "resize_estra1.jpg", thumb_name: "thumbnail_estra1.jpg", project_name: "estra"},
+  {image_name: "resize_estra2.jpg", thumb_name: "thumbnail_estra2.jpg", project_name: "estra"},
+  {image_name: "resize_estra3.jpg", thumb_name: "thumbnail_estra3.jpg", project_name: "estra"},
+  {image_name: "resize_estra4.jpg", thumb_name: "thumbnail_estra4.jpg", project_name: "estra"},
+  {image_name: "resize_estra5.jpg", thumb_name: "thumbnail_estra5.jpg", project_name: "estra"},
+  {image_name: "resize_estra6.jpg", thumb_name: "thumbnail_estra6.jpg", project_name: "estra"},
+  {image_name: "resize_estra7.jpg", thumb_name: "thumbnail_estra7.jpg", project_name: "estra"},
+  {image_name: "resize_estra8.jpg", thumb_name: "thumbnail_estra8.jpg", project_name: "estra"},
+  {image_name: "resize_estra9.jpg", thumb_name: "thumbnail_estra9.jpg", project_name: "estra"},
+  {image_name: "resize_estra10.jpg", thumb_name: "thumbnail_estra10.jpg", project_name: "estra"}
+])
+Proyect.create!([
+  {name: "Casa Norte América", description: "Proyecto ubicado al norte de Medellín, cuenta con piscina climatizada borde infinito, acabados en cristanac con efectos de agua tipo Magic Bowl, con equipos ahorradores de última tecnología complementado con jacuzzi portable.", youtube: "https://www.youtube.com/embed/5Fi4GwM9D90", linkone: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica1.jpg", linktwo: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica2.jpg", linkthree: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica3.jpg", linkfour: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica4.jpg", linkfive: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica5.jpg", linksix: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica6.jpg", linkseven: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica7.jpg", linkeight: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica8.jpg", linknine: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica9.jpg", linkten: "https://piscinasmg.s3-sa-east-1.amazonaws.com/norteamerica/norteamerica10.jpg", subtitle: "Piscina Lúdica"},
+  {name: "Casa California", description: "Proyecto situado en al norte de la ciudad de Medellín, cuenta con una piscina inteligente climatizada, acabado en ceramica con efectos de agua (magic stream) con equipos de última generación ahorradores de energía marca Pentair, complementado con Spa marca Garden Leisure con capacidad para 6 personas.", youtube: "https://www.youtube.com/embed/vMP55zJTVE4", linkone: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal1.jpg", linktwo: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal2.jpg", linkthree: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal3.jpg", linkfour: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal4.jpg", linkfive: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal5.jpg", linksix: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal6.jpg", linkseven: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal7.jpg", linkeight: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal8.jpg", linknine: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal9.jpg", linkten: "https://piscinasmg.s3-sa-east-1.amazonaws.com/California/cal10.jpg", subtitle: "Pool & Spa"},
+  {name: "Casa DOM", description: "Proyecto ubicado en el sur de la ciudad de Medellín, cuenta con piscina inteligente con equipos ahorradores de energía de última tecnología con acabados importados y revestimiento tipo Cristanac importado desde España y piedras atermicas", youtube: "https://www.youtube.com/embed/YW7GBZPJ1Mk", linkone: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero1.jpg", linktwo: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero2.jpg", linkthree: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero3.jpg", linkfour: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero4.jpg", linkfive: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero5.jpg", linksix: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero6.jpg", linkseven: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero7.jpg", linkeight: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero8.jpg", linknine: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero9.jpg", linkten: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Escobero/escobero10.jpg", subtitle: "Pool"},
+  {name: "Casa Estrada", description: "Proyecto ubicado en el oriente de Medellín, cuenta con un maravilloso SPA de hidromasajes BullFrog R7L, con las siguientes caracteristicas: Ahorrador de energía, Tecnología JetPack intercambiable con sistema propio de oxigenación y más de 17 combinaciones de masaje, Capacidad para 6 personas", youtube: "https://www.youtube.com/embed/rkmOw2jhOYk", linkone: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra1.jpg", linktwo: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra2.jpg", linkthree: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra3.jpg", linkfour: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra4.jpg", linkfive: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra5.jpg", linksix: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra6.jpg", linkseven: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra7.jpg", linkeight: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra8.jpg", linknine: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra9.jpg", linkten: "https://piscinasmg.s3-sa-east-1.amazonaws.com/Estrada/estra10.jpg", subtitle: "Spa"}
+])

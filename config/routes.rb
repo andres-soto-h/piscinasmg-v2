@@ -1,6 +1,12 @@
 Rails.application.routes.draw do
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+  get 'page/index'
+  root 'page#index'
 
-  # Defines the root path route ("/")
-  # root "articles#index"
+  get '/proyects', to: 'proyects#index'
+  get '/proyects/new', to: 'proyects#new', as: 'new_proyect'
+  post '/proyects', to: 'proyects#create'
+  get '/proyects/:id', to: 'proyects#show', as: 'proyect'
+  get '/proyects/:id/edit', to: 'proyects#edit', as: 'edit_proyect'
+  patch '/proyects/:id', to: 'proyects#update'
+  delete '/proyects/:id', to: 'proyects#destroy'
 end

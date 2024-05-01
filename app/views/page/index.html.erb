@@ -323,25 +323,31 @@
     });
 
 
-    var d = new Date();
-
-    // Set the value of the "date" field
-    document.getElementById("date").value = d.toDateString();
 
     (function ($) {
         $(document).ready(function () {
 
             var form = $('.contact-form'),
-                url = 'https://script.google.com/macros/s/AKfycbxH0oXqwHe6cwmTPqQ0pM4JtNNN6aL_Jzud4jK2ks9w-UhwbHs/exec'
+                url = 'https://eokwm7dns8rwgfl.m.pipedream.net'
 
 
             $('#submit-form').on('click', function (e) {
                 e.preventDefault();
+
+                var d = new Date();
+
+                var formData = {
+                    'CORREO': $('input[name="correo"]').val(),
+                    'FECHA': d.toDateString(),
+                    'MENSAJE': $('textarea[name="texto"]').val()
+                  };
+                
                 var jqxhr = $.ajax({
                     url: url,
-                    method: "GET",
+                    method: "POST",
+                    contentType: "application/json",
                     dataType: "json",
-                    data: form.serializeObject()
+                    data: JSON.stringify(formData)
                 }).success(
                     Swal.fire(
                         '¡Muy bien!',
