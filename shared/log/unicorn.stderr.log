@@ -1,0 +1,12 @@
+I, [2024-05-02T01:29:23.389159 #33235]  INFO -- : Refreshing Gem list
+I, [2024-05-02T01:29:27.832012 #33235]  INFO -- : listening on addr=/home/ubuntu/piscinasmg-v2/shared/sockets/unicorn.sock fd=9
+I, [2024-05-02T01:29:27.832178 #33235]  INFO -- : worker=0 spawning...
+I, [2024-05-02T01:29:27.835001 #33235]  INFO -- : worker=1 spawning...
+I, [2024-05-02T01:29:27.837403 #33237]  INFO -- : worker=0 spawned pid=33237
+I, [2024-05-02T01:29:27.837632 #33237]  INFO -- : worker=0 ready
+I, [2024-05-02T01:29:27.838602 #33235]  INFO -- : master process ready
+I, [2024-05-02T01:29:27.839797 #33238]  INFO -- : worker=1 spawned pid=33238
+I, [2024-05-02T01:29:27.840009 #33238]  INFO -- : worker=1 ready
+I, [2024-05-02T01:46:28.050024 #33235]  INFO -- : reaped #<Process::Status: pid 33237 exit 0> worker=0
+I, [2024-05-02T01:46:28.050152 #33235]  INFO -- : reaped #<Process::Status: pid 33238 exit 0> worker=1
+I, [2024-05-02T01:46:28.050279 #33235]  INFO -- : master complete

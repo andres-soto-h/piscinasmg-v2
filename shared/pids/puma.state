@@ -1,0 +1,5 @@
+---
+pid: 30383
+control_url: unix:///tmp/puma-status-1714608345551-30383
+control_auth_token: 11804cc19791f550302aa2f84c5a8bd9
+running_from: "/home/ubuntu/piscinasmg-v2"

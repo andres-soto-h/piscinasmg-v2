@@ -1,0 +1,524 @@
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+/home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:206:in `pid=': Already running on PID:33235 (or pid=/home/ubuntu/piscinasmg-v2/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:138:in `start'
+	from /home/ubuntu/.rbenv/versions/3.0.7/lib/ruby/gems/3.0.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `load'
+	from /home/ubuntu/.rbenv/versions/3.0.7/bin/unicorn:25:in `<main>'
+I, [2024-05-02T01:47:31.076815 #33564]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-05-02T01:47:31.077093 #33564]  INFO -- : worker=0 spawning...
+I, [2024-05-02T01:47:31.078866 #33565]  INFO -- : worker=0 spawned pid=33565
+I, [2024-05-02T01:47:31.079027 #33565]  INFO -- : Refreshing Gem list
+I, [2024-05-02T01:47:31.078399 #33564]  INFO -- : master process ready
+I, [2024-05-02T01:47:32.177236 #33565]  INFO -- : worker=0 ready
+I, [2024-05-02T01:58:20.646265 #33564]  INFO -- : reaped #<Process::Status: pid 33565 exit 0> worker=0
+I, [2024-05-02T01:58:20.647172 #33564]  INFO -- : master complete
+I, [2024-05-02T01:59:36.505796 #34289]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-05-02T01:59:36.506051 #34289]  INFO -- : worker=0 spawning...
+I, [2024-05-02T01:59:36.507384 #34289]  INFO -- : master process ready
+I, [2024-05-02T01:59:36.507848 #34290]  INFO -- : worker=0 spawned pid=34290
+I, [2024-05-02T01:59:36.508001 #34290]  INFO -- : Refreshing Gem list
+I, [2024-05-02T01:59:38.247400 #34290]  INFO -- : worker=0 ready
+I, [2024-05-02T02:12:16.889553 #34289]  INFO -- : reaped #<Process::Status: pid 34290 exit 0> worker=0
+I, [2024-05-02T02:12:16.890583 #34289]  INFO -- : master complete
+I, [2024-05-02T02:13:04.634391 #34624]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-05-02T02:13:04.634694 #34624]  INFO -- : worker=0 spawning...
+I, [2024-05-02T02:13:04.635275 #34624]  INFO -- : master process ready
+I, [2024-05-02T02:13:04.635837 #34625]  INFO -- : worker=0 spawned pid=34625
+I, [2024-05-02T02:13:04.636012 #34625]  INFO -- : Refreshing Gem list
+I, [2024-05-02T02:13:06.375645 #34625]  INFO -- : worker=0 ready
+E, [2024-05-02T02:18:43.906935 #34624] ERROR -- : worker=0 PID:34625 timeout (61s > 60s), killing
+E, [2024-05-02T02:18:43.914859 #34624] ERROR -- : reaped #<Process::Status: pid 34625 SIGKILL (signal 9)> worker=0
+I, [2024-05-02T02:18:43.915014 #34624]  INFO -- : worker=0 spawning...
+I, [2024-05-02T02:18:43.916156 #34702]  INFO -- : worker=0 spawned pid=34702
+I, [2024-05-02T02:18:43.916399 #34702]  INFO -- : Refreshing Gem list
+I, [2024-05-02T02:18:45.007879 #34702]  INFO -- : worker=0 ready
+I, [2024-05-02T02:23:14.437912 #34624]  INFO -- : reaped #<Process::Status: pid 34702 exit 0> worker=0
+I, [2024-05-02T02:23:14.438039 #34624]  INFO -- : master complete
+I, [2024-05-02T02:23:26.334381 #34766]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-05-02T02:23:26.335672 #34766]  INFO -- : worker=0 spawning...
+I, [2024-05-02T02:23:26.337679 #34766]  INFO -- : master process ready
+I, [2024-05-02T02:23:26.338262 #34767]  INFO -- : worker=0 spawned pid=34767
+I, [2024-05-02T02:23:26.338424 #34767]  INFO -- : Refreshing Gem list
+I, [2024-05-02T02:23:27.414972 #34767]  INFO -- : worker=0 ready
+E, [2024-05-02T02:34:29.889216 #34766] ERROR -- : worker=0 PID:34767 timeout (61s > 60s), killing
+E, [2024-05-02T02:34:29.897402 #34766] ERROR -- : reaped #<Process::Status: pid 34767 SIGKILL (signal 9)> worker=0
+I, [2024-05-02T02:34:29.897608 #34766]  INFO -- : worker=0 spawning...
+I, [2024-05-02T02:34:29.898825 #35375]  INFO -- : worker=0 spawned pid=35375
+I, [2024-05-02T02:34:29.899043 #35375]  INFO -- : Refreshing Gem list
+I, [2024-05-02T02:34:31.138939 #35375]  INFO -- : worker=0 ready
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+Bad request content body
+I, [2024-06-03T17:09:41.755826 #34766]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-06-03T17:09:41.833906 #34766]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-06-03T17:09:41.833985 #34766]  INFO -- : reaped #<Process::Status: pid 35375 exit 0> worker=0
+I, [2024-06-03T17:09:41.834076 #34766]  INFO -- : master complete
+I, [2024-06-03T17:22:30.940211 #1244]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-03T17:22:30.941261 #1244]  INFO -- : worker=0 spawning...
+I, [2024-06-03T17:22:30.942218 #1244]  INFO -- : master process ready
+I, [2024-06-03T17:22:30.942685 #1245]  INFO -- : worker=0 spawned pid=1245
+I, [2024-06-03T17:22:30.942925 #1245]  INFO -- : Refreshing Gem list
+I, [2024-06-03T17:22:37.196453 #1245]  INFO -- : worker=0 ready
+D, [2024-06-04T07:08:58.095103 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:10:30.106717 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:12:02.553087 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:16:07.034408 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:17:39.538498 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:19:12.762500 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:21:25.554385 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:22:58.837086 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:24:31.351567 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:26:04.982791 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:27:38.430562 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:29:44.783996 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:31:59.043980 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:33:31.835527 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:35:05.556871 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:38:08.191512 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:39:40.862701 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:41:13.903363 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:42:46.941526 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:45:51.082585 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:47:23.960087 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:50:28.068636 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:53:32.401930 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T07:55:05.605273 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:00:44.778619 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:03:49.979862 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:06:54.610600 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:08:26.706356 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:11:30.866332 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:15:19.955719 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:16:52.669351 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:21:28.982129 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:24:33.327322 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:26:06.268537 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:28:17.607989 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:29:51.517282 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:31:24.549799 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:32:57.243757 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:34:29.934275 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:40:43.764880 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:45:26.538343 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+E, [2024-06-04T08:45:27.377705 #1244] ERROR -- : reaped #<Process::Status: pid 1245 SIGKILL (signal 9)> worker=0
+I, [2024-06-04T08:45:27.501673 #1244]  INFO -- : worker=0 spawning...
+I, [2024-06-04T08:45:27.503169 #6120]  INFO -- : worker=0 spawned pid=6120
+I, [2024-06-04T08:45:27.504099 #6120]  INFO -- : Refreshing Gem list
+D, [2024-06-04T08:47:27.272587 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:51:58.694218 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:53:32.281270 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:57:05.496727 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T08:58:39.039990 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:00:13.565497 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:01:45.960627 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:03:20.188750 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:04:54.514941 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:06:29.274058 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:08:03.358707 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:09:37.887682 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:11:17.112894 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:13:01.291964 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:14:41.215839 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:16:33.923406 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:18:27.143445 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:20:22.616152 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:21:22.156567 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:23:19.575765 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:25:13.591236 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:27:14.618154 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:29:04.253514 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:30:51.210190 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:32:37.512927 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:34:20.573018 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:36:15.373059 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:38:27.422546 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:39:41.500192 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:41:33.048013 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:43:29.283043 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:45:19.677201 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:46:32.571651 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:48:44.657602 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:49:52.180201 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:51:53.057808 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:53:07.063450 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:54:07.866263 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:56:00.174054 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:57:56.316985 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T09:59:43.714029 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:01:47.836426 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:03:37.822076 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:05:28.450963 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:07:17.645558 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:09:08.406823 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:10:56.545965 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:13:06.378026 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:14:03.265963 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:15:12.945510 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:16:25.040312 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:17:43.213156 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:19:44.287085 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:21:42.951512 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:23:37.633245 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:25:36.617390 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:27:47.014996 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:28:48.300557 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:30:47.060518 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:32:50.686117 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:34:56.202508 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:36:19.678977 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:38:24.783909 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:40:23.515188 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:42:14.365069 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:44:13.577747 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:45:12.115784 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:47:10.929588 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:49:01.692632 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:51:11.585525 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:53:39.823281 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:54:57.612920 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:56:02.247423 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:57:14.477989 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T10:59:21.183459 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:01:26.086692 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:03:26.907864 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:05:17.507072 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:06:23.782282 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:08:34.324705 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:10:50.614130 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:12:07.320868 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:13:23.851334 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:14:52.632545 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:16:31.403694 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:19:53.036964 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:24:34.418932 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:28:48.708005 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:35:18.818626 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:40:10.042063 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:44:36.845908 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:48:28.192731 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:54:05.045158 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T11:57:53.975841 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:00:54.934688 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:03:21.537320 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:05:51.441443 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:08:16.208321 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:10:13.976535 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:11:28.210945 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:12:45.885860 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:13:59.303480 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:15:17.909644 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:17:36.221338 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:19:18.493736 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:21:08.869460 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:22:30.229409 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:23:57.207814 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:25:01.674661 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:26:03.993691 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:27:32.043779 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:29:03.902455 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:30:14.661810 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:31:33.247220 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:32:50.725548 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:34:20.647216 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:35:49.418869 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:37:16.936436 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:38:50.124515 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:41:06.967987 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:43:23.919425 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:44:38.738877 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:45:53.159941 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:47:13.558672 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:48:18.786231 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:50:20.725757 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:52:25.391093 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:53:36.236661 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:55:38.877851 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:57:42.491748 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T12:59:50.558843 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:00:51.085511 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:03:12.272000 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:04:13.519913 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:06:27.050395 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:07:42.902204 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:08:48.524174 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:09:51.125238 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:12:05.509341 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:13:22.744786 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:15:21.742331 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:16:35.775583 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:17:44.089945 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:19:02.022829 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:20:10.803341 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:21:08.953312 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:23:03.738078 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:24:21.551549 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:25:34.977026 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:27:41.624959 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:28:44.430242 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:29:50.548768 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:31:04.668301 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:32:43.651542 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:33:44.884081 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:35:43.629732 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:37:07.916270 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:38:26.139534 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:40:48.442342 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:42:11.540046 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:44:28.114352 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:46:48.245214 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:47:56.768846 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:50:10.088774 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:51:38.833653 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:53:07.310269 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:54:24.173358 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:56:40.170511 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T13:58:16.254249 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:00:20.451793 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:02:21.055419 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:04:26.622032 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:06:45.146135 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:07:53.808064 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:09:44.450418 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:10:46.255683 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:12:48.541442 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:13:57.520445 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:15:01.936719 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:17:15.031125 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:18:21.495678 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:19:43.161787 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:20:56.388184 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:21:57.468771 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:23:13.635867 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:25:04.194882 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:27:19.107356 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:29:30.035395 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:30:35.142652 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+D, [2024-06-04T14:32:00.040513 #1244] DEBUG -- : waiting 31.0s after suspend/hibernation
+I, [2024-06-04T16:47:22.464135 #1648]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-04T16:47:22.467372 #1648]  INFO -- : worker=0 spawning...
+I, [2024-06-04T16:47:22.468254 #1648]  INFO -- : master process ready
+I, [2024-06-04T16:47:22.468692 #1649]  INFO -- : worker=0 spawned pid=1649
+I, [2024-06-04T16:47:22.468968 #1649]  INFO -- : Refreshing Gem list
+I, [2024-06-04T16:47:26.932129 #1649]  INFO -- : worker=0 ready
+I, [2024-06-04T16:57:22.310736 #1648]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-06-04T16:57:22.326347 #1648]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-06-04T16:57:22.427834 #1648]  INFO -- : reaped #<Process::Status: pid 1649 exit 0> worker=0
+I, [2024-06-04T16:57:22.427986 #1648]  INFO -- : master complete
+I, [2024-06-04T17:34:05.204434 #1453]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-04T17:34:05.207613 #1453]  INFO -- : worker=0 spawning...
+I, [2024-06-04T17:34:05.208419 #1453]  INFO -- : master process ready
+I, [2024-06-04T17:34:05.208795 #1454]  INFO -- : worker=0 spawned pid=1454
+I, [2024-06-04T17:34:05.209022 #1454]  INFO -- : Refreshing Gem list
+I, [2024-06-04T17:34:10.081556 #1454]  INFO -- : worker=0 ready
+I, [2024-06-05T04:00:49.774969 #1453]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-06-05T04:00:49.791274 #1453]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-06-05T04:00:49.893647 #1453]  INFO -- : reaped #<Process::Status: pid 1454 exit 0> worker=0
+I, [2024-06-05T04:00:49.893791 #1453]  INFO -- : master complete
+I, [2024-06-07T18:06:51.653644 #7430]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-07T18:06:51.655072 #7430]  INFO -- : worker=0 spawning...
+I, [2024-06-07T18:06:51.656195 #7430]  INFO -- : master process ready
+I, [2024-06-07T18:06:51.656478 #7431]  INFO -- : worker=0 spawned pid=7431
+I, [2024-06-07T18:06:51.656657 #7431]  INFO -- : Refreshing Gem list
+I, [2024-06-07T18:06:56.484517 #7431]  INFO -- : worker=0 ready
+I, [2024-06-07T18:17:48.507713 #7430]  INFO -- : reaped #<Process::Status: pid 7431 exit 0> worker=0
+I, [2024-06-07T18:17:48.507843 #7430]  INFO -- : master complete
+I, [2024-06-07T18:23:46.989330 #7851]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-07T18:23:46.989776 #7851]  INFO -- : worker=0 spawning...
+I, [2024-06-07T18:23:46.991316 #7851]  INFO -- : master process ready
+I, [2024-06-07T18:23:46.998415 #7852]  INFO -- : worker=0 spawned pid=7852
+I, [2024-06-07T18:23:46.998985 #7852]  INFO -- : Refreshing Gem list
+I, [2024-06-07T18:23:48.213062 #7852]  INFO -- : worker=0 ready
+I, [2024-06-07T18:24:05.062979 #7851]  INFO -- : reaped #<Process::Status: pid 7852 exit 0> worker=0
+I, [2024-06-07T18:24:05.063130 #7851]  INFO -- : master complete
+I, [2024-06-07T14:11:15.637692 #1485]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-06-07T14:11:15.638004 #1485]  INFO -- : worker=0 spawning...
+I, [2024-06-07T14:11:15.639200 #1485]  INFO -- : master process ready
+I, [2024-06-07T14:11:15.639554 #1486]  INFO -- : worker=0 spawned pid=1486
+I, [2024-06-07T14:11:15.639774 #1486]  INFO -- : Refreshing Gem list
+I, [2024-06-07T14:11:19.788058 #1486]  INFO -- : worker=0 ready
+Bad request content body
+E, [2024-07-13T14:35:03.723706 #1485] ERROR -- : worker=0 PID:1486 timeout (61s > 60s), killing
+E, [2024-07-13T14:35:03.749052 #1485] ERROR -- : reaped #<Process::Status: pid 1486 SIGKILL (signal 9)> worker=0
+I, [2024-07-13T14:35:03.749410 #1485]  INFO -- : worker=0 spawning...
+I, [2024-07-13T14:35:03.752604 #234853]  INFO -- : worker=0 spawned pid=234853
+I, [2024-07-13T14:35:03.752920 #234853]  INFO -- : Refreshing Gem list
+I, [2024-07-13T14:35:07.567799 #234853]  INFO -- : worker=0 ready
+I, [2024-07-29T07:43:45.604633 #1485]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-07-29T07:43:45.635994 #1485]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-07-29T07:43:45.736444 #1485]  INFO -- : reaped #<Process::Status: pid 234853 exit 0> worker=0
+I, [2024-07-29T07:43:45.736591 #1485]  INFO -- : master complete
+I, [2024-07-29T08:36:12.753591 #2411]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-07-29T08:36:12.755135 #2411]  INFO -- : worker=0 spawning...
+I, [2024-07-29T08:36:12.755972 #2411]  INFO -- : master process ready
+I, [2024-07-29T08:36:12.756360 #2412]  INFO -- : worker=0 spawned pid=2412
+I, [2024-07-29T08:36:12.756541 #2412]  INFO -- : Refreshing Gem list
+I, [2024-07-29T08:36:16.038139 #2412]  INFO -- : worker=0 ready
+I, [2024-07-29T08:41:54.483098 #2411]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-07-29T08:41:54.496980 #2411]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-07-29T08:41:54.598365 #2411]  INFO -- : reaped #<Process::Status: pid 2412 exit 0> worker=0
+I, [2024-07-29T08:41:54.598516 #2411]  INFO -- : master complete
+I, [2024-07-29T17:59:37.102179 #4335]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-07-29T17:59:37.103542 #4335]  INFO -- : worker=0 spawning...
+I, [2024-07-29T17:59:37.104392 #4335]  INFO -- : master process ready
+I, [2024-07-29T17:59:37.104925 #4336]  INFO -- : worker=0 spawned pid=4336
+I, [2024-07-29T17:59:37.105153 #4336]  INFO -- : Refreshing Gem list
+I, [2024-07-29T17:59:40.043493 #4336]  INFO -- : worker=0 ready
+I, [2024-08-03T21:48:43.683529 #4335]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-08-03T21:48:43.704661 #4335]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-08-03T21:48:43.805362 #4335]  INFO -- : reaped #<Process::Status: pid 4336 exit 0> worker=0
+I, [2024-08-03T21:48:43.805490 #4335]  INFO -- : master complete
+I, [2024-08-03T22:11:55.343954 #1433]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-03T22:11:55.346304 #1433]  INFO -- : worker=0 spawning...
+I, [2024-08-03T22:11:55.347132 #1433]  INFO -- : master process ready
+I, [2024-08-03T22:11:55.347448 #1434]  INFO -- : worker=0 spawned pid=1434
+I, [2024-08-03T22:11:55.347619 #1434]  INFO -- : Refreshing Gem list
+I, [2024-08-03T22:11:59.045225 #1434]  INFO -- : worker=0 ready
+I, [2024-08-03T22:12:52.236490 #1433]  INFO -- : reaped #<Process::Status: pid 1434 exit 0> worker=0
+I, [2024-08-03T22:12:52.236655 #1433]  INFO -- : master complete
+I, [2024-08-03T23:03:46.185452 #1344]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-03T23:03:46.185903 #1344]  INFO -- : worker=0 spawning...
+I, [2024-08-03T23:03:46.186877 #1344]  INFO -- : master process ready
+I, [2024-08-03T23:03:46.187228 #1345]  INFO -- : worker=0 spawned pid=1345
+I, [2024-08-03T23:03:46.187456 #1345]  INFO -- : Refreshing Gem list
+I, [2024-08-03T23:03:49.325828 #1345]  INFO -- : worker=0 ready
+I, [2024-08-03T23:08:15.365638 #1344]  INFO -- : reaped #<Process::Status: pid 1345 exit 0> worker=0
+I, [2024-08-03T23:08:15.365786 #1344]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2024-08-03T23:08:15.371895 #1344]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2024-08-03T23:08:15.374239 #1344]  INFO -- : master complete
+I, [2024-08-03T23:27:14.644784 #1734]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-03T23:27:14.645175 #1734]  INFO -- : worker=0 spawning...
+I, [2024-08-03T23:27:14.646327 #1734]  INFO -- : master process ready
+I, [2024-08-03T23:27:14.647206 #1735]  INFO -- : worker=0 spawned pid=1735
+I, [2024-08-03T23:27:14.647416 #1735]  INFO -- : Refreshing Gem list
+I, [2024-08-03T23:27:16.218945 #1735]  INFO -- : worker=0 ready
+I, [2024-08-03T23:27:38.913566 #1734]  INFO -- : reaped #<Process::Status: pid 1735 exit 0> worker=0
+I, [2024-08-03T23:27:38.913721 #1734]  INFO -- : master complete
+I, [2024-08-03T23:28:01.695701 #1005]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-03T23:28:01.697420 #1005]  INFO -- : worker=0 spawning...
+I, [2024-08-03T23:28:01.699373 #1007]  INFO -- : worker=0 spawned pid=1007
+I, [2024-08-03T23:28:01.699592 #1007]  INFO -- : Refreshing Gem list
+I, [2024-08-03T23:28:01.700935 #1005]  INFO -- : master process ready
+I, [2024-08-03T23:28:04.987932 #1007]  INFO -- : worker=0 ready
+I, [2024-08-03T23:31:36.113445 #1005]  INFO -- : reaped #<Process::Status: pid 1007 exit 0> worker=0
+I, [2024-08-03T23:31:36.113591 #1005]  INFO -- : master complete
+I, [2024-08-04T06:00:31.714713 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-04T06:00:31.720593 #1045]  INFO -- : worker=0 spawning...
+I, [2024-08-04T06:00:31.722049 #1045]  INFO -- : master process ready
+I, [2024-08-04T06:00:31.722326 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-08-04T06:00:31.722526 #1046]  INFO -- : Refreshing Gem list
+I, [2024-08-04T06:00:37.234963 #1046]  INFO -- : worker=0 ready
+E, [2024-08-04T19:39:22.224321 #1045] ERROR -- : worker=0 PID:1046 timeout (61s > 60s), killing
+E, [2024-08-04T19:39:22.241210 #1045] ERROR -- : reaped #<Process::Status: pid 1046 SIGKILL (signal 9)> worker=0
+I, [2024-08-04T19:39:22.241366 #1045]  INFO -- : worker=0 spawning...
+I, [2024-08-04T19:39:22.242872 #6510]  INFO -- : worker=0 spawned pid=6510
+I, [2024-08-04T19:39:22.244116 #6510]  INFO -- : Refreshing Gem list
+I, [2024-08-04T19:39:25.707887 #6510]  INFO -- : worker=0 ready
+I, [2024-08-04T23:00:50.027208 #1045]  INFO -- : reaped #<Process::Status: pid 6510 exit 0> worker=0
+I, [2024-08-04T23:00:50.027339 #1045]  INFO -- : master complete
+I, [2024-08-05T06:00:29.213318 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-05T06:00:29.214655 #1031]  INFO -- : worker=0 spawning...
+I, [2024-08-05T06:00:29.216548 #1032]  INFO -- : worker=0 spawned pid=1032
+I, [2024-08-05T06:00:29.216874 #1032]  INFO -- : Refreshing Gem list
+I, [2024-08-05T06:00:29.217976 #1031]  INFO -- : master process ready
+I, [2024-08-05T06:00:32.976715 #1032]  INFO -- : worker=0 ready
+I, [2024-08-05T23:00:50.036468 #1031]  INFO -- : reaped #<Process::Status: pid 1032 exit 0> worker=0
+I, [2024-08-05T23:00:50.038494 #1031]  INFO -- : master complete
+I, [2024-08-06T06:00:32.434428 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-06T06:00:32.435824 #1031]  INFO -- : worker=0 spawning...
+I, [2024-08-06T06:00:32.440254 #1031]  INFO -- : master process ready
+I, [2024-08-06T06:00:32.441565 #1032]  INFO -- : worker=0 spawned pid=1032
+I, [2024-08-06T06:00:32.441807 #1032]  INFO -- : Refreshing Gem list
+I, [2024-08-06T06:00:36.220618 #1032]  INFO -- : worker=0 ready
+I, [2024-08-06T23:00:50.097811 #1031]  INFO -- : reaped #<Process::Status: pid 1032 exit 0> worker=0
+I, [2024-08-06T23:00:50.105044 #1031]  INFO -- : master complete
+I, [2024-08-07T06:00:36.352673 #1044]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-07T06:00:36.357898 #1044]  INFO -- : worker=0 spawning...
+I, [2024-08-07T06:00:36.360685 #1044]  INFO -- : master process ready
+I, [2024-08-07T06:00:36.362502 #1045]  INFO -- : worker=0 spawned pid=1045
+I, [2024-08-07T06:00:36.362718 #1045]  INFO -- : Refreshing Gem list
+I, [2024-08-07T06:00:42.649652 #1045]  INFO -- : worker=0 ready
+I, [2024-08-07T23:00:50.199760 #1044]  INFO -- : reaped #<Process::Status: pid 1045 exit 0> worker=0
+I, [2024-08-07T23:00:50.206175 #1044]  INFO -- : master complete
+I, [2024-08-08T06:00:31.098198 #1034]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-08T06:00:31.106830 #1034]  INFO -- : worker=0 spawning...
+I, [2024-08-08T06:00:31.111777 #1034]  INFO -- : master process ready
+I, [2024-08-08T06:00:31.113822 #1035]  INFO -- : worker=0 spawned pid=1035
+I, [2024-08-08T06:00:31.114067 #1035]  INFO -- : Refreshing Gem list
+I, [2024-08-08T06:00:34.835957 #1035]  INFO -- : worker=0 ready
+I, [2024-08-08T23:00:50.015220 #1034]  INFO -- : reaped #<Process::Status: pid 1035 exit 0> worker=0
+I, [2024-08-08T23:00:50.018442 #1034]  INFO -- : master complete
+I, [2024-08-09T06:00:35.305461 #1048]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-09T06:00:35.325973 #1048]  INFO -- : worker=0 spawning...
+I, [2024-08-09T06:00:35.327867 #1048]  INFO -- : master process ready
+I, [2024-08-09T06:00:35.328830 #1056]  INFO -- : worker=0 spawned pid=1056
+I, [2024-08-09T06:00:35.329119 #1056]  INFO -- : Refreshing Gem list
+I, [2024-08-09T06:00:39.988208 #1056]  INFO -- : worker=0 ready
+I, [2024-08-09T06:22:28.228263 #1048]  INFO -- : reaped #<Process::Status: pid 1056 exit 0> worker=0
+I, [2024-08-09T06:22:28.233498 #1048]  INFO -- : master complete
+I, [2024-08-09T06:22:29.805287 #1632]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-09T06:22:29.805868 #1632]  INFO -- : worker=0 spawning...
+I, [2024-08-09T06:22:29.808515 #1632]  INFO -- : master process ready
+I, [2024-08-09T06:22:29.810021 #1633]  INFO -- : worker=0 spawned pid=1633
+I, [2024-08-09T06:22:29.810271 #1633]  INFO -- : Refreshing Gem list
+I, [2024-08-09T06:22:33.545900 #1633]  INFO -- : worker=0 ready
+I, [2024-08-09T23:00:50.114559 #1632]  INFO -- : reaped #<Process::Status: pid 1633 exit 0> worker=0
+I, [2024-08-09T23:00:50.122686 #1632]  INFO -- : master complete
+I, [2024-08-10T06:00:33.363185 #1099]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-10T06:00:33.366736 #1099]  INFO -- : worker=0 spawning...
+I, [2024-08-10T06:00:33.371221 #1099]  INFO -- : master process ready
+I, [2024-08-10T06:00:33.377728 #1100]  INFO -- : worker=0 spawned pid=1100
+I, [2024-08-10T06:00:33.378036 #1100]  INFO -- : Refreshing Gem list
+I, [2024-08-10T06:00:37.751696 #1100]  INFO -- : worker=0 ready
+I, [2024-08-10T23:00:50.287634 #1099]  INFO -- : reaped #<Process::Status: pid 1100 exit 0> worker=0
+I, [2024-08-10T23:00:50.311882 #1099]  INFO -- : master complete
+I, [2024-08-11T06:00:32.548792 #1041]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-11T06:00:32.550229 #1041]  INFO -- : worker=0 spawning...
+I, [2024-08-11T06:00:32.553092 #1041]  INFO -- : master process ready
+I, [2024-08-11T06:00:32.553672 #1042]  INFO -- : worker=0 spawned pid=1042
+I, [2024-08-11T06:00:32.553891 #1042]  INFO -- : Refreshing Gem list
+I, [2024-08-11T06:00:36.508144 #1042]  INFO -- : worker=0 ready
+I, [2024-08-11T23:00:50.424010 #1041]  INFO -- : reaped #<Process::Status: pid 1042 exit 0> worker=0
+I, [2024-08-11T23:00:50.425653 #1041]  INFO -- : master complete
+I, [2024-08-12T06:00:31.820823 #971]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-12T06:00:31.825133 #971]  INFO -- : worker=0 spawning...
+I, [2024-08-12T06:00:31.827911 #972]  INFO -- : worker=0 spawned pid=972
+I, [2024-08-12T06:00:31.828139 #972]  INFO -- : Refreshing Gem list
+I, [2024-08-12T06:00:31.828575 #971]  INFO -- : master process ready
+I, [2024-08-12T06:00:37.593340 #972]  INFO -- : worker=0 ready

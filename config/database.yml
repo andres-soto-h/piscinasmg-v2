@@ -10,8 +10,9 @@ test:
 
 production:
   adapter: postgresql
+  database: piscinasmg
   encoding: unicode
-  host: db
-  username: postgres #<%= Rails.application.credentials.dig(:db, :username) %>
-  password: postgres #<%= Rails.application.credentials.dig(:db, :password) %>
+  host: localhost
+  username: pguser
+  password: postgres
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>

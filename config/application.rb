@@ -10,7 +10,10 @@ module PiscinasmgApp
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 7.0
-
+    config.assets.enabled = true
+    config.assets.paths << Rails.root.join('app', 'assets', 'images')
+    config.assets.precompile += %w( vendor/assets/* )    
+    
     # Configuration for the application, engines, and railties goes here.
     #
     # These settings can be overridden in specific environments using the files
