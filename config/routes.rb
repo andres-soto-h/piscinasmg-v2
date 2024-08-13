@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'userterms/view'
   get 'page/index'
   root 'page#index'
 
