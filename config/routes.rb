@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'userterms/#index'
+  get '/userterms', to: 'userterms#index'
   get 'page/index'
   root 'page#index'
 

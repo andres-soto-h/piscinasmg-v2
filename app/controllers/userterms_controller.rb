@@ -1,4 +1,5 @@
 class UsertermsController < ApplicationController
-  def view
+  def index
+    @proyects = Proyect.all
   end
 end
