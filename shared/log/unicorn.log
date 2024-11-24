@@ -1,0 +1,947 @@
+I, [2024-08-12T23:44:40.167796 #3041]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-12T23:44:40.168259 #3041]  INFO -- : worker=0 spawning...
+I, [2024-08-12T23:44:40.170262 #3041]  INFO -- : master process ready
+I, [2024-08-12T23:44:40.170575 #3042]  INFO -- : worker=0 spawned pid=3042
+I, [2024-08-12T23:44:40.170788 #3042]  INFO -- : Refreshing Gem list
+I, [2024-08-12T23:44:41.189646 #3042]  INFO -- : worker=0 ready
+I, [2024-08-12T23:55:16.551422 #3041]  INFO -- : reaped #<Process::Status: pid 3042 exit 0> worker=0
+I, [2024-08-12T23:55:16.551539 #3041]  INFO -- : master complete
+I, [2024-08-12T23:55:19.357829 #3823]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-12T23:55:19.358231 #3823]  INFO -- : worker=0 spawning...
+I, [2024-08-12T23:55:19.360182 #3823]  INFO -- : master process ready
+I, [2024-08-12T23:55:19.360668 #3824]  INFO -- : worker=0 spawned pid=3824
+I, [2024-08-12T23:55:19.360889 #3824]  INFO -- : Refreshing Gem list
+I, [2024-08-12T23:55:20.524847 #3824]  INFO -- : worker=0 ready
+I, [2024-08-12T23:57:57.991092 #3823]  INFO -- : reaped #<Process::Status: pid 3824 exit 0> worker=0
+I, [2024-08-12T23:57:57.991221 #3823]  INFO -- : master complete
+I, [2024-08-12T23:58:00.891637 #4077]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-12T23:58:00.892041 #4077]  INFO -- : worker=0 spawning...
+I, [2024-08-12T23:58:00.893736 #4077]  INFO -- : master process ready
+I, [2024-08-12T23:58:00.895931 #4078]  INFO -- : worker=0 spawned pid=4078
+I, [2024-08-12T23:58:00.896239 #4078]  INFO -- : Refreshing Gem list
+I, [2024-08-12T23:58:02.322711 #4078]  INFO -- : worker=0 ready
+I, [2024-08-13T00:00:30.786517 #4077]  INFO -- : reaped #<Process::Status: pid 4078 exit 0> worker=0
+I, [2024-08-13T00:00:30.786635 #4077]  INFO -- : master complete
+I, [2024-08-13T00:00:35.612588 #4339]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T00:00:35.612962 #4339]  INFO -- : worker=0 spawning...
+I, [2024-08-13T00:00:35.614732 #4339]  INFO -- : master process ready
+I, [2024-08-13T00:00:35.615833 #4340]  INFO -- : worker=0 spawned pid=4340
+I, [2024-08-13T00:00:35.616058 #4340]  INFO -- : Refreshing Gem list
+I, [2024-08-13T00:00:36.600548 #4340]  INFO -- : worker=0 ready
+I, [2024-08-13T00:02:26.279999 #4339]  INFO -- : reaped #<Process::Status: pid 4340 exit 0> worker=0
+I, [2024-08-13T00:02:26.280132 #4339]  INFO -- : master complete
+I, [2024-08-13T00:02:29.360647 #4431]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T00:02:29.361087 #4431]  INFO -- : worker=0 spawning...
+I, [2024-08-13T00:02:29.363042 #4431]  INFO -- : master process ready
+I, [2024-08-13T00:02:29.364933 #4432]  INFO -- : worker=0 spawned pid=4432
+I, [2024-08-13T00:02:29.365186 #4432]  INFO -- : Refreshing Gem list
+I, [2024-08-13T00:02:30.763627 #4432]  INFO -- : worker=0 ready
+I, [2024-08-13T00:05:20.051878 #4431]  INFO -- : reaped #<Process::Status: pid 4432 exit 0> worker=0
+I, [2024-08-13T00:05:20.052000 #4431]  INFO -- : master complete
+I, [2024-08-13T00:05:22.800204 #4541]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T00:05:22.800618 #4541]  INFO -- : worker=0 spawning...
+I, [2024-08-13T00:05:22.802880 #4541]  INFO -- : master process ready
+I, [2024-08-13T00:05:22.805256 #4542]  INFO -- : worker=0 spawned pid=4542
+I, [2024-08-13T00:05:22.805695 #4542]  INFO -- : Refreshing Gem list
+I, [2024-08-13T00:05:23.933655 #4542]  INFO -- : worker=0 ready
+I, [2024-08-13T00:07:53.379738 #4541]  INFO -- : reaped #<Process::Status: pid 4542 exit 0> worker=0
+I, [2024-08-13T00:07:53.379977 #4541]  INFO -- : master complete
+I, [2024-08-13T00:07:57.177088 #4645]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T00:07:57.177657 #4645]  INFO -- : worker=0 spawning...
+I, [2024-08-13T00:07:57.180629 #4645]  INFO -- : master process ready
+I, [2024-08-13T00:07:57.182914 #4646]  INFO -- : worker=0 spawned pid=4646
+I, [2024-08-13T00:07:57.183314 #4646]  INFO -- : Refreshing Gem list
+I, [2024-08-13T00:07:58.308373 #4646]  INFO -- : worker=0 ready
+I, [2024-08-13T00:09:30.918350 #4645]  INFO -- : reaped #<Process::Status: pid 4646 exit 0> worker=0
+I, [2024-08-13T00:09:30.918494 #4645]  INFO -- : master complete
+I, [2024-08-13T00:09:34.887537 #4739]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T00:09:34.887981 #4739]  INFO -- : worker=0 spawning...
+I, [2024-08-13T00:09:34.890361 #4739]  INFO -- : master process ready
+I, [2024-08-13T00:09:34.890687 #4740]  INFO -- : worker=0 spawned pid=4740
+I, [2024-08-13T00:09:34.890912 #4740]  INFO -- : Refreshing Gem list
+I, [2024-08-13T00:09:35.848485 #4740]  INFO -- : worker=0 ready
+I, [2024-08-13T07:52:06.144099 #4739]  INFO -- : reaped #<Process::Status: pid 4740 exit 0> worker=0
+I, [2024-08-13T07:52:06.144234 #4739]  INFO -- : master complete
+I, [2024-08-13T07:52:12.758073 #7945]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T07:52:12.758482 #7945]  INFO -- : worker=0 spawning...
+I, [2024-08-13T07:52:12.760353 #7945]  INFO -- : master process ready
+I, [2024-08-13T07:52:12.761160 #7946]  INFO -- : worker=0 spawned pid=7946
+I, [2024-08-13T07:52:12.761389 #7946]  INFO -- : Refreshing Gem list
+I, [2024-08-13T07:52:16.287797 #7946]  INFO -- : worker=0 ready
+I, [2024-08-13T07:54:22.017910 #7945]  INFO -- : reaped #<Process::Status: pid 7946 exit 0> worker=0
+I, [2024-08-13T07:54:22.018031 #7945]  INFO -- : master complete
+I, [2024-08-13T07:54:25.763596 #8041]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T07:54:25.764041 #8041]  INFO -- : worker=0 spawning...
+I, [2024-08-13T07:54:25.765937 #8041]  INFO -- : master process ready
+I, [2024-08-13T07:54:25.766826 #8042]  INFO -- : worker=0 spawned pid=8042
+I, [2024-08-13T07:54:25.767048 #8042]  INFO -- : Refreshing Gem list
+I, [2024-08-13T07:54:26.773573 #8042]  INFO -- : worker=0 ready
+I, [2024-08-13T07:56:40.871666 #8137]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T07:56:40.872133 #8137]  INFO -- : worker=0 spawning...
+I, [2024-08-13T07:56:40.874339 #8137]  INFO -- : master process ready
+I, [2024-08-13T07:56:40.874910 #8138]  INFO -- : worker=0 spawned pid=8138
+I, [2024-08-13T07:56:40.875150 #8138]  INFO -- : Refreshing Gem list
+I, [2024-08-13T07:56:42.049899 #8138]  INFO -- : worker=0 ready
+I, [2024-08-13T14:17:11.919827 #8137]  INFO -- : reaped #<Process::Status: pid 8138 exit 0> worker=0
+I, [2024-08-13T14:17:11.920013 #8137]  INFO -- : master complete
+I, [2024-08-13T14:17:12.730506 #10291]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-13T14:17:12.732158 #10291]  INFO -- : worker=0 spawning...
+I, [2024-08-13T14:17:12.735110 #10291]  INFO -- : master process ready
+I, [2024-08-13T14:17:12.737009 #10292]  INFO -- : worker=0 spawned pid=10292
+I, [2024-08-13T14:17:12.737484 #10292]  INFO -- : Refreshing Gem list
+I, [2024-08-13T14:17:15.568320 #10292]  INFO -- : worker=0 ready
+I, [2024-08-13T23:00:50.227471 #10291]  INFO -- : reaped #<Process::Status: pid 10292 exit 0> worker=0
+I, [2024-08-13T23:00:50.227617 #10291]  INFO -- : master complete
+I, [2024-08-14T06:00:32.584716 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-14T06:00:32.585920 #1030]  INFO -- : worker=0 spawning...
+I, [2024-08-14T06:00:32.587376 #1030]  INFO -- : master process ready
+I, [2024-08-14T06:00:32.590459 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-08-14T06:00:32.590691 #1031]  INFO -- : Refreshing Gem list
+I, [2024-08-14T06:00:38.179788 #1031]  INFO -- : worker=0 ready
+I, [2024-08-14T23:00:50.260054 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-08-14T23:00:50.262081 #1030]  INFO -- : master complete
+I, [2024-08-15T06:00:30.506630 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-15T06:00:30.507738 #1037]  INFO -- : worker=0 spawning...
+I, [2024-08-15T06:00:30.510742 #1037]  INFO -- : master process ready
+I, [2024-08-15T06:00:30.512804 #1038]  INFO -- : worker=0 spawned pid=1038
+I, [2024-08-15T06:00:30.513023 #1038]  INFO -- : Refreshing Gem list
+I, [2024-08-15T06:00:34.099480 #1038]  INFO -- : worker=0 ready
+I, [2024-08-15T23:00:49.981296 #1037]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=0
+I, [2024-08-15T23:00:49.982024 #1037]  INFO -- : master complete
+I, [2024-08-16T06:00:29.603033 #1097]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-16T06:00:29.608180 #1097]  INFO -- : worker=0 spawning...
+I, [2024-08-16T06:00:29.610952 #1098]  INFO -- : worker=0 spawned pid=1098
+I, [2024-08-16T06:00:29.614484 #1097]  INFO -- : master process ready
+I, [2024-08-16T06:00:29.616752 #1098]  INFO -- : Refreshing Gem list
+I, [2024-08-16T06:00:33.515365 #1098]  INFO -- : worker=0 ready
+I, [2024-08-16T23:00:50.004333 #1097]  INFO -- : reaped #<Process::Status: pid 1098 exit 0> worker=0
+I, [2024-08-16T23:00:50.005496 #1097]  INFO -- : master complete
+I, [2024-08-17T06:00:33.660061 #995]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-17T06:00:33.663755 #995]  INFO -- : worker=0 spawning...
+I, [2024-08-17T06:00:33.665025 #995]  INFO -- : master process ready
+I, [2024-08-17T06:00:33.665792 #998]  INFO -- : worker=0 spawned pid=998
+I, [2024-08-17T06:00:33.665974 #998]  INFO -- : Refreshing Gem list
+I, [2024-08-17T06:00:37.452981 #998]  INFO -- : worker=0 ready
+I, [2024-08-17T23:00:50.410805 #995]  INFO -- : reaped #<Process::Status: pid 998 exit 0> worker=0
+I, [2024-08-17T23:00:50.411373 #995]  INFO -- : master complete
+I, [2024-08-18T06:00:30.763422 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-18T06:00:30.764777 #1037]  INFO -- : worker=0 spawning...
+I, [2024-08-18T06:00:30.766325 #1037]  INFO -- : master process ready
+I, [2024-08-18T06:00:30.767179 #1038]  INFO -- : worker=0 spawned pid=1038
+I, [2024-08-18T06:00:30.767402 #1038]  INFO -- : Refreshing Gem list
+I, [2024-08-18T06:00:35.681487 #1038]  INFO -- : worker=0 ready
+I, [2024-08-18T23:00:50.667857 #1037]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=0
+I, [2024-08-18T23:00:50.669841 #1037]  INFO -- : master complete
+I, [2024-08-19T06:00:32.969333 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-19T06:00:32.970415 #1031]  INFO -- : worker=0 spawning...
+I, [2024-08-19T06:00:32.973769 #1031]  INFO -- : master process ready
+I, [2024-08-19T06:00:32.979639 #1033]  INFO -- : worker=0 spawned pid=1033
+I, [2024-08-19T06:00:32.979872 #1033]  INFO -- : Refreshing Gem list
+I, [2024-08-19T06:00:38.689114 #1033]  INFO -- : worker=0 ready
+I, [2024-08-19T23:00:51.365338 #1031]  INFO -- : reaped #<Process::Status: pid 1033 exit 0> worker=0
+I, [2024-08-19T23:00:51.366035 #1031]  INFO -- : master complete
+I, [2024-08-20T06:00:30.907849 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-20T06:00:30.909891 #1030]  INFO -- : worker=0 spawning...
+I, [2024-08-20T06:00:30.914194 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-08-20T06:00:30.914609 #1031]  INFO -- : Refreshing Gem list
+I, [2024-08-20T06:00:30.915746 #1030]  INFO -- : master process ready
+I, [2024-08-20T06:00:34.320490 #1031]  INFO -- : worker=0 ready
+I, [2024-08-20T06:02:30.092311 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-08-20T06:02:30.093562 #1030]  INFO -- : master complete
+I, [2024-08-20T06:02:30.976005 #2815]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-20T06:02:30.976440 #2815]  INFO -- : worker=0 spawning...
+I, [2024-08-20T06:02:30.978244 #2815]  INFO -- : master process ready
+I, [2024-08-20T06:02:30.978532 #2816]  INFO -- : worker=0 spawned pid=2816
+I, [2024-08-20T06:02:30.978738 #2816]  INFO -- : Refreshing Gem list
+I, [2024-08-20T06:02:33.709298 #2816]  INFO -- : worker=0 ready
+I, [2024-08-20T23:00:50.301651 #2815]  INFO -- : reaped #<Process::Status: pid 2816 exit 0> worker=0
+I, [2024-08-20T23:00:50.302833 #2815]  INFO -- : master complete
+I, [2024-08-21T06:00:32.585331 #1111]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-21T06:00:32.586309 #1111]  INFO -- : worker=0 spawning...
+I, [2024-08-21T06:00:32.589800 #1112]  INFO -- : worker=0 spawned pid=1112
+I, [2024-08-21T06:00:32.590019 #1112]  INFO -- : Refreshing Gem list
+I, [2024-08-21T06:00:32.591348 #1111]  INFO -- : master process ready
+I, [2024-08-21T06:00:36.667185 #1112]  INFO -- : worker=0 ready
+I, [2024-08-21T23:00:50.049277 #1111]  INFO -- : reaped #<Process::Status: pid 1112 exit 0> worker=0
+I, [2024-08-21T23:00:50.050834 #1111]  INFO -- : master complete
+I, [2024-08-22T06:00:34.290202 #1033]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-22T06:00:34.291173 #1033]  INFO -- : worker=0 spawning...
+I, [2024-08-22T06:00:34.294118 #1034]  INFO -- : worker=0 spawned pid=1034
+I, [2024-08-22T06:00:34.294429 #1034]  INFO -- : Refreshing Gem list
+I, [2024-08-22T06:00:34.294682 #1033]  INFO -- : master process ready
+I, [2024-08-22T06:00:40.723567 #1034]  INFO -- : worker=0 ready
+I, [2024-08-22T23:00:50.439010 #1033]  INFO -- : reaped #<Process::Status: pid 1034 exit 0> worker=0
+I, [2024-08-22T23:00:50.444839 #1033]  INFO -- : master complete
+I, [2024-08-23T06:00:32.017534 #1097]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-23T06:00:32.019579 #1097]  INFO -- : worker=0 spawning...
+I, [2024-08-23T06:00:32.020792 #1097]  INFO -- : master process ready
+I, [2024-08-23T06:00:32.021224 #1098]  INFO -- : worker=0 spawned pid=1098
+I, [2024-08-23T06:00:32.021430 #1098]  INFO -- : Refreshing Gem list
+I, [2024-08-23T06:00:36.025399 #1098]  INFO -- : worker=0 ready
+I, [2024-08-23T06:19:31.392989 #1097]  INFO -- : reaped #<Process::Status: pid 1098 exit 0> worker=0
+I, [2024-08-23T06:19:31.397134 #1097]  INFO -- : master complete
+I, [2024-08-23T06:19:32.801692 #2417]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-23T06:19:32.802219 #2417]  INFO -- : worker=0 spawning...
+I, [2024-08-23T06:19:32.804577 #2417]  INFO -- : master process ready
+I, [2024-08-23T06:19:32.805380 #2418]  INFO -- : worker=0 spawned pid=2418
+I, [2024-08-23T06:19:32.805589 #2418]  INFO -- : Refreshing Gem list
+I, [2024-08-23T06:19:36.657376 #2418]  INFO -- : worker=0 ready
+I, [2024-08-23T23:00:50.125602 #2417]  INFO -- : reaped #<Process::Status: pid 2418 exit 0> worker=0
+I, [2024-08-23T23:00:50.127355 #2417]  INFO -- : master complete
+I, [2024-08-24T06:00:40.263341 #1105]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-24T06:00:40.266750 #1105]  INFO -- : worker=0 spawning...
+I, [2024-08-24T06:00:40.269346 #1105]  INFO -- : master process ready
+I, [2024-08-24T06:00:40.273038 #1106]  INFO -- : worker=0 spawned pid=1106
+I, [2024-08-24T06:00:40.273308 #1106]  INFO -- : Refreshing Gem list
+I, [2024-08-24T06:00:46.588986 #1106]  INFO -- : worker=0 ready
+I, [2024-08-24T23:00:49.978812 #1105]  INFO -- : reaped #<Process::Status: pid 1106 exit 0> worker=0
+I, [2024-08-24T23:00:49.979425 #1105]  INFO -- : master complete
+I, [2024-08-25T06:00:29.634249 #1038]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-25T06:00:29.634973 #1038]  INFO -- : worker=0 spawning...
+I, [2024-08-25T06:00:29.636157 #1038]  INFO -- : master process ready
+I, [2024-08-25T06:00:29.638924 #1039]  INFO -- : worker=0 spawned pid=1039
+I, [2024-08-25T06:00:29.639104 #1039]  INFO -- : Refreshing Gem list
+I, [2024-08-25T06:00:33.052928 #1039]  INFO -- : worker=0 ready
+I, [2024-08-25T23:00:51.525444 #1038]  INFO -- : reaped #<Process::Status: pid 1039 exit 0> worker=0
+I, [2024-08-25T23:00:51.526996 #1038]  INFO -- : master complete
+I, [2024-08-26T06:00:29.195341 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-26T06:00:29.198190 #1030]  INFO -- : worker=0 spawning...
+I, [2024-08-26T06:00:29.200729 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-08-26T06:00:29.200945 #1031]  INFO -- : Refreshing Gem list
+I, [2024-08-26T06:00:29.202134 #1030]  INFO -- : master process ready
+I, [2024-08-26T06:00:33.007559 #1031]  INFO -- : worker=0 ready
+I, [2024-08-26T23:00:49.907956 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-08-26T23:00:49.908781 #1030]  INFO -- : master complete
+I, [2024-08-27T06:00:38.330846 #1064]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-27T06:00:38.334928 #1064]  INFO -- : worker=0 spawning...
+I, [2024-08-27T06:00:38.337590 #1065]  INFO -- : worker=0 spawned pid=1065
+I, [2024-08-27T06:00:38.337815 #1065]  INFO -- : Refreshing Gem list
+I, [2024-08-27T06:00:38.339028 #1064]  INFO -- : master process ready
+I, [2024-08-27T06:00:43.882279 #1065]  INFO -- : worker=0 ready
+I, [2024-08-27T23:00:49.948450 #1064]  INFO -- : reaped #<Process::Status: pid 1065 exit 0> worker=0
+I, [2024-08-27T23:00:49.951027 #1064]  INFO -- : master complete
+I, [2024-08-28T06:00:49.370176 #1057]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-28T06:00:49.382836 #1057]  INFO -- : worker=0 spawning...
+I, [2024-08-28T06:00:49.388089 #1057]  INFO -- : master process ready
+I, [2024-08-28T06:00:49.390499 #1058]  INFO -- : worker=0 spawned pid=1058
+I, [2024-08-28T06:00:49.390752 #1058]  INFO -- : Refreshing Gem list
+I, [2024-08-28T06:00:56.939229 #1058]  INFO -- : worker=0 ready
+I, [2024-08-28T23:00:50.130274 #1057]  INFO -- : reaped #<Process::Status: pid 1058 exit 0> worker=0
+I, [2024-08-28T23:00:50.132392 #1057]  INFO -- : master complete
+I, [2024-08-29T06:00:31.902728 #961]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-29T06:00:31.904025 #961]  INFO -- : worker=0 spawning...
+I, [2024-08-29T06:00:31.905979 #961]  INFO -- : master process ready
+I, [2024-08-29T06:00:31.906913 #962]  INFO -- : worker=0 spawned pid=962
+I, [2024-08-29T06:00:31.907192 #962]  INFO -- : Refreshing Gem list
+I, [2024-08-29T06:00:35.901024 #962]  INFO -- : worker=0 ready
+I, [2024-08-29T23:00:50.363752 #961]  INFO -- : reaped #<Process::Status: pid 962 exit 0> worker=0
+I, [2024-08-29T23:00:50.366975 #961]  INFO -- : master complete
+I, [2024-08-30T06:00:33.017248 #1036]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-30T06:00:33.033732 #1036]  INFO -- : worker=0 spawning...
+I, [2024-08-30T06:00:33.037435 #1036]  INFO -- : master process ready
+I, [2024-08-30T06:00:33.037827 #1037]  INFO -- : worker=0 spawned pid=1037
+I, [2024-08-30T06:00:33.038063 #1037]  INFO -- : Refreshing Gem list
+I, [2024-08-30T06:00:38.216943 #1037]  INFO -- : worker=0 ready
+I, [2024-08-30T23:00:51.953669 #1036]  INFO -- : reaped #<Process::Status: pid 1037 exit 0> worker=0
+I, [2024-08-30T23:00:51.958649 #1036]  INFO -- : master complete
+I, [2024-08-31T06:00:41.988006 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-08-31T06:00:41.989723 #1031]  INFO -- : worker=0 spawning...
+I, [2024-08-31T06:00:41.991162 #1031]  INFO -- : master process ready
+I, [2024-08-31T06:00:41.993431 #1032]  INFO -- : worker=0 spawned pid=1032
+I, [2024-08-31T06:00:41.993640 #1032]  INFO -- : Refreshing Gem list
+I, [2024-08-31T06:00:47.717407 #1032]  INFO -- : worker=0 ready
+I, [2024-08-31T23:00:50.695428 #1031]  INFO -- : reaped #<Process::Status: pid 1032 exit 0> worker=0
+I, [2024-08-31T23:00:50.707804 #1031]  INFO -- : master complete
+I, [2024-09-01T06:00:32.214665 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-01T06:00:32.217978 #1045]  INFO -- : worker=0 spawning...
+I, [2024-09-01T06:00:32.219539 #1045]  INFO -- : master process ready
+I, [2024-09-01T06:00:32.222708 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-09-01T06:00:32.222940 #1046]  INFO -- : Refreshing Gem list
+I, [2024-09-01T06:00:35.610408 #1046]  INFO -- : worker=0 ready
+I, [2024-09-01T23:00:50.462117 #1045]  INFO -- : reaped #<Process::Status: pid 1046 exit 0> worker=0
+I, [2024-09-01T23:00:50.464970 #1045]  INFO -- : master complete
+I, [2024-09-02T06:00:32.039035 #965]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-02T06:00:32.040753 #965]  INFO -- : worker=0 spawning...
+I, [2024-09-02T06:00:32.042127 #965]  INFO -- : master process ready
+I, [2024-09-02T06:00:32.045556 #966]  INFO -- : worker=0 spawned pid=966
+I, [2024-09-02T06:00:32.045787 #966]  INFO -- : Refreshing Gem list
+I, [2024-09-02T06:00:37.154537 #966]  INFO -- : worker=0 ready
+I, [2024-09-02T23:00:50.024872 #965]  INFO -- : reaped #<Process::Status: pid 966 exit 0> worker=0
+I, [2024-09-02T23:00:50.027986 #965]  INFO -- : master complete
+I, [2024-09-03T06:00:32.305626 #1032]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-03T06:00:32.307395 #1032]  INFO -- : worker=0 spawning...
+I, [2024-09-03T06:00:32.308757 #1032]  INFO -- : master process ready
+I, [2024-09-03T06:00:32.311815 #1033]  INFO -- : worker=0 spawned pid=1033
+I, [2024-09-03T06:00:32.312041 #1033]  INFO -- : Refreshing Gem list
+I, [2024-09-03T06:00:35.763361 #1033]  INFO -- : worker=0 ready
+I, [2024-09-03T23:00:50.065717 #1032]  INFO -- : reaped #<Process::Status: pid 1033 exit 0> worker=0
+I, [2024-09-03T23:00:50.066694 #1032]  INFO -- : master complete
+I, [2024-09-04T06:00:33.762435 #979]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-04T06:00:33.767345 #979]  INFO -- : worker=0 spawning...
+I, [2024-09-04T06:00:33.768720 #979]  INFO -- : master process ready
+I, [2024-09-04T06:00:33.775464 #981]  INFO -- : worker=0 spawned pid=981
+I, [2024-09-04T06:00:33.775725 #981]  INFO -- : Refreshing Gem list
+I, [2024-09-04T06:00:38.549533 #981]  INFO -- : worker=0 ready
+I, [2024-09-04T06:50:29.395760 #979]  INFO -- : reaped #<Process::Status: pid 981 exit 0> worker=0
+I, [2024-09-04T06:50:29.399406 #979]  INFO -- : master complete
+I, [2024-09-04T06:50:31.079310 #1798]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-04T06:50:31.079763 #1798]  INFO -- : worker=0 spawning...
+I, [2024-09-04T06:50:31.081525 #1798]  INFO -- : master process ready
+I, [2024-09-04T06:50:31.082370 #1799]  INFO -- : worker=0 spawned pid=1799
+I, [2024-09-04T06:50:31.082594 #1799]  INFO -- : Refreshing Gem list
+I, [2024-09-04T06:50:34.534205 #1799]  INFO -- : worker=0 ready
+I, [2024-09-04T23:00:49.957331 #1798]  INFO -- : reaped #<Process::Status: pid 1799 exit 0> worker=0
+I, [2024-09-04T23:00:49.957938 #1798]  INFO -- : master complete
+I, [2024-09-05T06:00:31.398690 #1096]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-05T06:00:31.402138 #1096]  INFO -- : worker=0 spawning...
+I, [2024-09-05T06:00:31.403705 #1096]  INFO -- : master process ready
+I, [2024-09-05T06:00:31.404035 #1097]  INFO -- : worker=0 spawned pid=1097
+I, [2024-09-05T06:00:31.404231 #1097]  INFO -- : Refreshing Gem list
+I, [2024-09-05T06:00:37.404339 #1097]  INFO -- : worker=0 ready
+E, [2024-09-05T14:33:40.074548 #1096] ERROR -- : worker=0 PID:1097 timeout (61s > 60s), killing
+E, [2024-09-05T14:33:40.083401 #1096] ERROR -- : reaped #<Process::Status: pid 1097 SIGKILL (signal 9)> worker=0
+I, [2024-09-05T14:33:40.083649 #1096]  INFO -- : worker=0 spawning...
+I, [2024-09-05T14:33:40.086399 #4311]  INFO -- : worker=0 spawned pid=4311
+I, [2024-09-05T14:33:40.086640 #4311]  INFO -- : Refreshing Gem list
+I, [2024-09-05T14:33:43.176973 #4311]  INFO -- : worker=0 ready
+I, [2024-09-05T23:00:50.178124 #1096]  INFO -- : reaped #<Process::Status: pid 4311 exit 0> worker=0
+I, [2024-09-05T23:00:50.178246 #1096]  INFO -- : master complete
+I, [2024-09-06T06:00:33.835690 #1094]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-06T06:00:33.839067 #1094]  INFO -- : worker=0 spawning...
+I, [2024-09-06T06:00:33.840377 #1094]  INFO -- : master process ready
+I, [2024-09-06T06:00:33.843307 #1095]  INFO -- : worker=0 spawned pid=1095
+I, [2024-09-06T06:00:33.843528 #1095]  INFO -- : Refreshing Gem list
+I, [2024-09-06T06:00:36.955516 #1095]  INFO -- : worker=0 ready
+I, [2024-09-06T23:00:50.190543 #1094]  INFO -- : reaped #<Process::Status: pid 1095 exit 0> worker=0
+I, [2024-09-06T23:00:50.196160 #1094]  INFO -- : master complete
+I, [2024-09-07T06:00:30.409768 #1115]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-07T06:00:30.411327 #1115]  INFO -- : worker=0 spawning...
+I, [2024-09-07T06:00:30.412880 #1115]  INFO -- : master process ready
+I, [2024-09-07T06:00:30.417456 #1116]  INFO -- : worker=0 spawned pid=1116
+I, [2024-09-07T06:00:30.417935 #1116]  INFO -- : Refreshing Gem list
+I, [2024-09-07T06:00:33.991495 #1116]  INFO -- : worker=0 ready
+I, [2024-09-07T23:00:49.989438 #1115]  INFO -- : reaped #<Process::Status: pid 1116 exit 0> worker=0
+I, [2024-09-07T23:00:49.999189 #1115]  INFO -- : master complete
+I, [2024-09-08T06:00:32.120440 #1032]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-08T06:00:32.121632 #1032]  INFO -- : worker=0 spawning...
+I, [2024-09-08T06:00:32.123102 #1032]  INFO -- : master process ready
+I, [2024-09-08T06:00:32.124394 #1033]  INFO -- : worker=0 spawned pid=1033
+I, [2024-09-08T06:00:32.124595 #1033]  INFO -- : Refreshing Gem list
+I, [2024-09-08T06:00:35.193272 #1033]  INFO -- : worker=0 ready
+I, [2024-09-08T23:00:50.312482 #1032]  INFO -- : reaped #<Process::Status: pid 1033 exit 0> worker=0
+I, [2024-09-08T23:00:50.313964 #1032]  INFO -- : master complete
+I, [2024-09-09T06:00:32.862246 #1032]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-09T06:00:32.863662 #1032]  INFO -- : worker=0 spawning...
+I, [2024-09-09T06:00:32.868225 #1032]  INFO -- : master process ready
+I, [2024-09-09T06:00:32.869058 #1033]  INFO -- : worker=0 spawned pid=1033
+I, [2024-09-09T06:00:32.869386 #1033]  INFO -- : Refreshing Gem list
+I, [2024-09-09T06:00:36.600735 #1033]  INFO -- : worker=0 ready
+I, [2024-09-09T23:00:49.979341 #1032]  INFO -- : reaped #<Process::Status: pid 1033 exit 0> worker=0
+I, [2024-09-09T23:00:49.988382 #1032]  INFO -- : master complete
+I, [2024-09-10T06:00:32.342429 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-10T06:00:32.345090 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-10T06:00:32.346758 #1030]  INFO -- : master process ready
+I, [2024-09-10T06:00:32.349738 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-10T06:00:32.350086 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-10T06:00:36.564424 #1031]  INFO -- : worker=0 ready
+I, [2024-09-10T23:00:50.190013 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-10T23:00:50.193900 #1030]  INFO -- : master complete
+I, [2024-09-11T06:01:23.330484 #1147]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-11T06:01:23.337817 #1147]  INFO -- : worker=0 spawning...
+I, [2024-09-11T06:01:23.340383 #1147]  INFO -- : master process ready
+I, [2024-09-11T06:01:23.346036 #1148]  INFO -- : worker=0 spawned pid=1148
+I, [2024-09-11T06:01:23.346280 #1148]  INFO -- : Refreshing Gem list
+I, [2024-09-11T06:01:30.210030 #1148]  INFO -- : worker=0 ready
+I, [2024-09-11T23:00:50.158095 #1147]  INFO -- : reaped #<Process::Status: pid 1148 exit 0> worker=0
+I, [2024-09-11T23:00:50.161667 #1147]  INFO -- : master complete
+I, [2024-09-12T06:00:31.210788 #964]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-12T06:00:31.214414 #964]  INFO -- : worker=0 spawning...
+I, [2024-09-12T06:00:31.215917 #964]  INFO -- : master process ready
+I, [2024-09-12T06:00:31.225766 #966]  INFO -- : worker=0 spawned pid=966
+I, [2024-09-12T06:00:31.226002 #966]  INFO -- : Refreshing Gem list
+I, [2024-09-12T06:00:35.499407 #966]  INFO -- : worker=0 ready
+I, [2024-09-12T23:00:50.053089 #964]  INFO -- : reaped #<Process::Status: pid 966 exit 0> worker=0
+I, [2024-09-12T23:00:50.056304 #964]  INFO -- : master complete
+I, [2024-09-13T06:00:35.331577 #1101]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-13T06:00:35.333406 #1101]  INFO -- : worker=0 spawning...
+I, [2024-09-13T06:00:35.337417 #1101]  INFO -- : master process ready
+I, [2024-09-13T06:00:35.339577 #1102]  INFO -- : worker=0 spawned pid=1102
+I, [2024-09-13T06:00:35.339802 #1102]  INFO -- : Refreshing Gem list
+I, [2024-09-13T06:00:39.335067 #1102]  INFO -- : worker=0 ready
+I, [2024-09-13T23:00:50.225837 #1101]  INFO -- : reaped #<Process::Status: pid 1102 exit 0> worker=0
+I, [2024-09-13T23:00:50.229073 #1101]  INFO -- : master complete
+I, [2024-09-14T06:00:29.989299 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-14T06:00:29.992379 #1031]  INFO -- : worker=0 spawning...
+I, [2024-09-14T06:00:29.995879 #1031]  INFO -- : master process ready
+I, [2024-09-14T06:00:29.996136 #1032]  INFO -- : worker=0 spawned pid=1032
+I, [2024-09-14T06:00:29.996355 #1032]  INFO -- : Refreshing Gem list
+I, [2024-09-14T06:00:33.194338 #1032]  INFO -- : worker=0 ready
+I, [2024-09-14T23:00:51.266363 #1031]  INFO -- : reaped #<Process::Status: pid 1032 exit 0> worker=0
+I, [2024-09-14T23:00:51.274258 #1031]  INFO -- : master complete
+I, [2024-09-15T06:00:32.152549 #1039]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-15T06:00:32.154045 #1039]  INFO -- : worker=0 spawning...
+I, [2024-09-15T06:00:32.155362 #1039]  INFO -- : master process ready
+I, [2024-09-15T06:00:32.158594 #1040]  INFO -- : worker=0 spawned pid=1040
+I, [2024-09-15T06:00:32.158826 #1040]  INFO -- : Refreshing Gem list
+I, [2024-09-15T06:00:35.662096 #1040]  INFO -- : worker=0 ready
+I, [2024-09-15T23:00:50.166095 #1039]  INFO -- : reaped #<Process::Status: pid 1040 exit 0> worker=0
+I, [2024-09-15T23:00:50.170074 #1039]  INFO -- : master complete
+I, [2024-09-16T06:00:31.558854 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-16T06:00:31.560315 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-16T06:00:31.564971 #1030]  INFO -- : master process ready
+I, [2024-09-16T06:00:31.566336 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-16T06:00:31.566643 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-16T06:00:35.096121 #1031]  INFO -- : worker=0 ready
+I, [2024-09-16T23:00:51.878953 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-16T23:00:51.881032 #1030]  INFO -- : master complete
+I, [2024-09-17T06:00:33.590116 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-17T06:00:33.591907 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-17T06:00:33.593317 #1030]  INFO -- : master process ready
+I, [2024-09-17T06:00:33.594050 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-17T06:00:33.594245 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-17T06:00:37.739069 #1031]  INFO -- : worker=0 ready
+I, [2024-09-17T23:00:50.759038 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-17T23:00:50.760891 #1030]  INFO -- : master complete
+I, [2024-09-18T06:00:32.746547 #1098]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-18T06:00:32.757769 #1098]  INFO -- : worker=0 spawning...
+I, [2024-09-18T06:00:32.758948 #1098]  INFO -- : master process ready
+I, [2024-09-18T06:00:32.759215 #1099]  INFO -- : worker=0 spawned pid=1099
+I, [2024-09-18T06:00:32.759483 #1099]  INFO -- : Refreshing Gem list
+I, [2024-09-18T06:00:36.633439 #1099]  INFO -- : worker=0 ready
+I, [2024-09-18T23:00:50.471468 #1098]  INFO -- : reaped #<Process::Status: pid 1099 exit 0> worker=0
+I, [2024-09-18T23:00:50.474798 #1098]  INFO -- : master complete
+I, [2024-09-19T06:00:31.872277 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-19T06:00:31.873711 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-19T06:00:31.875117 #1030]  INFO -- : master process ready
+I, [2024-09-19T06:00:31.876327 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-19T06:00:31.876552 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-19T06:00:35.399887 #1031]  INFO -- : worker=0 ready
+I, [2024-09-19T23:00:50.089518 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-19T23:00:50.091588 #1030]  INFO -- : master complete
+I, [2024-09-20T06:00:30.873316 #1027]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-20T06:00:30.875080 #1027]  INFO -- : worker=0 spawning...
+I, [2024-09-20T06:00:30.877140 #1027]  INFO -- : master process ready
+I, [2024-09-20T06:00:30.878744 #1028]  INFO -- : worker=0 spawned pid=1028
+I, [2024-09-20T06:00:30.878963 #1028]  INFO -- : Refreshing Gem list
+I, [2024-09-20T06:00:34.932057 #1028]  INFO -- : worker=0 ready
+I, [2024-09-20T23:00:50.059046 #1027]  INFO -- : reaped #<Process::Status: pid 1028 exit 0> worker=0
+I, [2024-09-20T23:00:50.062558 #1027]  INFO -- : master complete
+I, [2024-09-21T06:00:32.540875 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-21T06:00:32.542576 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-21T06:00:32.544145 #1030]  INFO -- : master process ready
+I, [2024-09-21T06:00:32.545268 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-21T06:00:32.545480 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-21T06:00:36.013342 #1031]  INFO -- : worker=0 ready
+I, [2024-09-21T23:00:50.142778 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-21T23:00:50.145228 #1030]  INFO -- : master complete
+I, [2024-09-22T06:00:30.567519 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-22T06:00:30.568986 #1037]  INFO -- : worker=0 spawning...
+I, [2024-09-22T06:00:30.570965 #1038]  INFO -- : worker=0 spawned pid=1038
+I, [2024-09-22T06:00:30.571204 #1038]  INFO -- : Refreshing Gem list
+I, [2024-09-22T06:00:30.570378 #1037]  INFO -- : master process ready
+I, [2024-09-22T06:00:35.050785 #1038]  INFO -- : worker=0 ready
+I, [2024-09-22T23:00:50.023441 #1037]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=0
+I, [2024-09-22T23:00:50.029851 #1037]  INFO -- : master complete
+I, [2024-09-23T06:00:30.916289 #1026]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-23T06:00:30.918059 #1026]  INFO -- : worker=0 spawning...
+I, [2024-09-23T06:00:30.919950 #1026]  INFO -- : master process ready
+I, [2024-09-23T06:00:30.921288 #1027]  INFO -- : worker=0 spawned pid=1027
+I, [2024-09-23T06:00:30.921507 #1027]  INFO -- : Refreshing Gem list
+I, [2024-09-23T06:00:34.316309 #1027]  INFO -- : worker=0 ready
+I, [2024-09-23T23:00:50.206663 #1026]  INFO -- : reaped #<Process::Status: pid 1027 exit 0> worker=0
+I, [2024-09-23T23:00:50.208158 #1026]  INFO -- : master complete
+I, [2024-09-24T06:00:31.692486 #1032]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-24T06:00:31.693711 #1032]  INFO -- : worker=0 spawning...
+I, [2024-09-24T06:00:31.695575 #1033]  INFO -- : worker=0 spawned pid=1033
+I, [2024-09-24T06:00:31.695792 #1033]  INFO -- : Refreshing Gem list
+I, [2024-09-24T06:00:31.696780 #1032]  INFO -- : master process ready
+I, [2024-09-24T06:00:34.968184 #1033]  INFO -- : worker=0 ready
+I, [2024-09-24T23:00:50.895403 #1032]  INFO -- : reaped #<Process::Status: pid 1033 exit 0> worker=0
+I, [2024-09-24T23:00:50.914192 #1032]  INFO -- : master complete
+I, [2024-09-25T06:00:31.607986 #1030]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-25T06:00:31.609868 #1030]  INFO -- : worker=0 spawning...
+I, [2024-09-25T06:00:31.611270 #1030]  INFO -- : master process ready
+I, [2024-09-25T06:00:31.613448 #1031]  INFO -- : worker=0 spawned pid=1031
+I, [2024-09-25T06:00:31.613643 #1031]  INFO -- : Refreshing Gem list
+I, [2024-09-25T06:00:35.348780 #1031]  INFO -- : worker=0 ready
+I, [2024-09-25T23:00:51.261564 #1030]  INFO -- : reaped #<Process::Status: pid 1031 exit 0> worker=0
+I, [2024-09-25T23:00:51.263445 #1030]  INFO -- : master complete
+I, [2024-09-26T06:00:32.469370 #1028]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-26T06:00:32.475248 #1028]  INFO -- : worker=0 spawning...
+I, [2024-09-26T06:00:32.477518 #1029]  INFO -- : worker=0 spawned pid=1029
+I, [2024-09-26T06:00:32.477865 #1029]  INFO -- : Refreshing Gem list
+I, [2024-09-26T06:00:32.479073 #1028]  INFO -- : master process ready
+I, [2024-09-26T06:00:36.622421 #1029]  INFO -- : worker=0 ready
+I, [2024-09-26T23:00:50.169070 #1028]  INFO -- : reaped #<Process::Status: pid 1029 exit 0> worker=0
+I, [2024-09-26T23:00:50.171855 #1028]  INFO -- : master complete
+I, [2024-09-27T06:00:38.110865 #1097]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-27T06:00:38.112753 #1097]  INFO -- : worker=0 spawning...
+I, [2024-09-27T06:00:38.117078 #1097]  INFO -- : master process ready
+I, [2024-09-27T06:00:38.117751 #1098]  INFO -- : worker=0 spawned pid=1098
+I, [2024-09-27T06:00:38.117989 #1098]  INFO -- : Refreshing Gem list
+I, [2024-09-27T06:00:43.722006 #1098]  INFO -- : worker=0 ready
+I, [2024-09-27T23:00:51.021247 #1097]  INFO -- : reaped #<Process::Status: pid 1098 exit 0> worker=0
+I, [2024-09-27T23:00:51.026560 #1097]  INFO -- : master complete
+I, [2024-09-28T06:00:31.015555 #1027]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-28T06:00:31.019014 #1027]  INFO -- : worker=0 spawning...
+I, [2024-09-28T06:00:31.020887 #1028]  INFO -- : worker=0 spawned pid=1028
+I, [2024-09-28T06:00:31.021089 #1028]  INFO -- : Refreshing Gem list
+I, [2024-09-28T06:00:31.021930 #1027]  INFO -- : master process ready
+I, [2024-09-28T06:00:34.546464 #1028]  INFO -- : worker=0 ready
+I, [2024-09-28T23:00:50.225878 #1027]  INFO -- : reaped #<Process::Status: pid 1028 exit 0> worker=0
+I, [2024-09-28T23:00:50.228755 #1027]  INFO -- : master complete
+I, [2024-09-29T06:00:30.501875 #965]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-29T06:00:30.507576 #965]  INFO -- : worker=0 spawning...
+I, [2024-09-29T06:00:30.510910 #965]  INFO -- : master process ready
+I, [2024-09-29T06:00:30.511187 #966]  INFO -- : worker=0 spawned pid=966
+I, [2024-09-29T06:00:30.511431 #966]  INFO -- : Refreshing Gem list
+I, [2024-09-29T06:00:34.331742 #966]  INFO -- : worker=0 ready
+I, [2024-09-29T23:00:49.979863 #965]  INFO -- : reaped #<Process::Status: pid 966 exit 0> worker=0
+I, [2024-09-29T23:00:49.980458 #965]  INFO -- : master complete
+I, [2024-09-30T06:00:40.953205 #1031]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-09-30T06:00:40.954695 #1031]  INFO -- : worker=0 spawning...
+I, [2024-09-30T06:00:40.956588 #1031]  INFO -- : master process ready
+I, [2024-09-30T06:00:40.957690 #1032]  INFO -- : worker=0 spawned pid=1032
+I, [2024-09-30T06:00:40.957897 #1032]  INFO -- : Refreshing Gem list
+I, [2024-09-30T06:00:45.081241 #1032]  INFO -- : worker=0 ready
+I, [2024-09-30T23:00:50.263966 #1031]  INFO -- : reaped #<Process::Status: pid 1032 exit 0> worker=0
+I, [2024-09-30T23:00:50.265453 #1031]  INFO -- : master complete
+I, [2024-10-01T06:00:34.559533 #985]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-01T06:00:34.565383 #985]  INFO -- : worker=0 spawning...
+I, [2024-10-01T06:00:34.573370 #985]  INFO -- : master process ready
+I, [2024-10-01T06:00:34.576118 #1001]  INFO -- : worker=0 spawned pid=1001
+I, [2024-10-01T06:00:34.576364 #1001]  INFO -- : Refreshing Gem list
+I, [2024-10-01T06:00:40.720075 #1001]  INFO -- : worker=0 ready
+I, [2024-10-01T23:00:50.326298 #985]  INFO -- : reaped #<Process::Status: pid 1001 exit 0> worker=0
+I, [2024-10-01T23:00:50.330901 #985]  INFO -- : master complete
+I, [2024-10-02T06:00:34.368444 #1029]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-02T06:00:34.371545 #1029]  INFO -- : worker=0 spawning...
+I, [2024-10-02T06:00:34.376249 #1029]  INFO -- : master process ready
+I, [2024-10-02T06:00:34.377103 #1030]  INFO -- : worker=0 spawned pid=1030
+I, [2024-10-02T06:00:34.377400 #1030]  INFO -- : Refreshing Gem list
+I, [2024-10-02T06:00:37.919175 #1030]  INFO -- : worker=0 ready
+I, [2024-10-02T23:00:50.212700 #1029]  INFO -- : reaped #<Process::Status: pid 1030 exit 0> worker=0
+I, [2024-10-02T23:00:50.215888 #1029]  INFO -- : master complete
+I, [2024-10-03T06:00:31.306288 #1047]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-03T06:00:31.307882 #1047]  INFO -- : worker=0 spawning...
+I, [2024-10-03T06:00:31.309343 #1047]  INFO -- : master process ready
+I, [2024-10-03T06:00:31.310910 #1048]  INFO -- : worker=0 spawned pid=1048
+I, [2024-10-03T06:00:31.311274 #1048]  INFO -- : Refreshing Gem list
+I, [2024-10-03T06:00:36.761684 #1048]  INFO -- : worker=0 ready
+I, [2024-10-03T23:00:49.947682 #1047]  INFO -- : reaped #<Process::Status: pid 1048 exit 0> worker=0
+I, [2024-10-03T23:00:49.950196 #1047]  INFO -- : master complete
+I, [2024-10-04T06:00:32.142882 #1035]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-04T06:00:32.144647 #1035]  INFO -- : worker=0 spawning...
+I, [2024-10-04T06:00:32.149775 #1037]  INFO -- : worker=0 spawned pid=1037
+I, [2024-10-04T06:00:32.150016 #1037]  INFO -- : Refreshing Gem list
+I, [2024-10-04T06:00:32.150455 #1035]  INFO -- : master process ready
+I, [2024-10-04T06:00:35.883500 #1037]  INFO -- : worker=0 ready
+I, [2024-10-04T23:00:50.823764 #1035]  INFO -- : reaped #<Process::Status: pid 1037 exit 0> worker=0
+I, [2024-10-04T23:00:50.830216 #1035]  INFO -- : master complete
+I, [2024-10-05T06:00:31.230260 #1100]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-05T06:00:31.231686 #1100]  INFO -- : worker=0 spawning...
+I, [2024-10-05T06:00:31.233135 #1100]  INFO -- : master process ready
+I, [2024-10-05T06:00:31.236045 #1101]  INFO -- : worker=0 spawned pid=1101
+I, [2024-10-05T06:00:31.236307 #1101]  INFO -- : Refreshing Gem list
+I, [2024-10-05T06:00:34.808426 #1101]  INFO -- : worker=0 ready
+I, [2024-10-05T23:00:50.436717 #1100]  INFO -- : reaped #<Process::Status: pid 1101 exit 0> worker=0
+I, [2024-10-05T23:00:50.439080 #1100]  INFO -- : master complete
+I, [2024-10-06T06:00:32.540160 #1038]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-06T06:00:32.541773 #1038]  INFO -- : worker=0 spawning...
+I, [2024-10-06T06:00:32.543333 #1038]  INFO -- : master process ready
+I, [2024-10-06T06:00:32.545370 #1039]  INFO -- : worker=0 spawned pid=1039
+I, [2024-10-06T06:00:32.545634 #1039]  INFO -- : Refreshing Gem list
+I, [2024-10-06T06:00:36.217867 #1039]  INFO -- : worker=0 ready
+I, [2024-10-06T23:00:50.221195 #1038]  INFO -- : reaped #<Process::Status: pid 1039 exit 0> worker=0
+I, [2024-10-06T23:00:50.222931 #1038]  INFO -- : master complete
+I, [2024-10-07T06:00:32.589429 #1035]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-07T06:00:32.590911 #1035]  INFO -- : worker=0 spawning...
+I, [2024-10-07T06:00:32.592933 #1035]  INFO -- : master process ready
+I, [2024-10-07T06:00:32.595504 #1036]  INFO -- : worker=0 spawned pid=1036
+I, [2024-10-07T06:00:32.595719 #1036]  INFO -- : Refreshing Gem list
+I, [2024-10-07T06:00:36.603178 #1036]  INFO -- : worker=0 ready
+I, [2024-10-07T23:00:53.089952 #1035]  INFO -- : reaped #<Process::Status: pid 1036 exit 0> worker=0
+I, [2024-10-07T23:00:53.091364 #1035]  INFO -- : master complete
+I, [2024-10-08T06:00:33.191536 #1025]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-08T06:00:33.193974 #1025]  INFO -- : worker=0 spawning...
+I, [2024-10-08T06:00:33.197204 #1025]  INFO -- : master process ready
+I, [2024-10-08T06:00:33.200688 #1028]  INFO -- : worker=0 spawned pid=1028
+I, [2024-10-08T06:00:33.200910 #1028]  INFO -- : Refreshing Gem list
+I, [2024-10-08T06:00:36.842572 #1028]  INFO -- : worker=0 ready
+I, [2024-10-08T23:00:50.060658 #1025]  INFO -- : reaped #<Process::Status: pid 1028 exit 0> worker=0
+I, [2024-10-08T23:00:50.063085 #1025]  INFO -- : master complete
+I, [2024-10-09T06:00:32.333630 #1093]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-09T06:00:32.339670 #1093]  INFO -- : worker=0 spawning...
+I, [2024-10-09T06:00:32.341492 #1093]  INFO -- : master process ready
+I, [2024-10-09T06:00:32.348153 #1094]  INFO -- : worker=0 spawned pid=1094
+I, [2024-10-09T06:00:32.348364 #1094]  INFO -- : Refreshing Gem list
+I, [2024-10-09T06:00:37.570967 #1094]  INFO -- : worker=0 ready
+I, [2024-10-09T23:00:50.051369 #1093]  INFO -- : reaped #<Process::Status: pid 1094 exit 0> worker=0
+I, [2024-10-09T23:00:50.055907 #1093]  INFO -- : master complete
+I, [2024-10-10T06:00:32.016021 #1061]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-10T06:00:32.019925 #1061]  INFO -- : worker=0 spawning...
+I, [2024-10-10T06:00:32.023233 #1061]  INFO -- : master process ready
+I, [2024-10-10T06:00:32.025012 #1062]  INFO -- : worker=0 spawned pid=1062
+I, [2024-10-10T06:00:32.028470 #1062]  INFO -- : Refreshing Gem list
+I, [2024-10-10T06:00:36.989856 #1062]  INFO -- : worker=0 ready
+I, [2024-10-10T23:00:50.953944 #1061]  INFO -- : reaped #<Process::Status: pid 1062 exit 0> worker=0
+I, [2024-10-10T23:00:50.955479 #1061]  INFO -- : master complete
+I, [2024-10-11T06:00:35.714400 #1039]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-11T06:00:35.715978 #1039]  INFO -- : worker=0 spawning...
+I, [2024-10-11T06:00:35.718742 #1039]  INFO -- : master process ready
+I, [2024-10-11T06:00:35.720340 #1040]  INFO -- : worker=0 spawned pid=1040
+I, [2024-10-11T06:00:35.720544 #1040]  INFO -- : Refreshing Gem list
+I, [2024-10-11T06:00:39.480419 #1040]  INFO -- : worker=0 ready
+I, [2024-10-11T23:00:50.205731 #1039]  INFO -- : reaped #<Process::Status: pid 1040 exit 0> worker=0
+I, [2024-10-11T23:00:50.220579 #1039]  INFO -- : master complete
+I, [2024-10-12T06:00:30.744355 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-12T06:00:30.745777 #1037]  INFO -- : worker=0 spawning...
+I, [2024-10-12T06:00:30.747056 #1037]  INFO -- : master process ready
+I, [2024-10-12T06:00:30.749410 #1038]  INFO -- : worker=0 spawned pid=1038
+I, [2024-10-12T06:00:30.749655 #1038]  INFO -- : Refreshing Gem list
+I, [2024-10-12T06:00:34.450385 #1038]  INFO -- : worker=0 ready
+I, [2024-10-12T23:00:49.933181 #1037]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=0
+I, [2024-10-12T23:00:49.934791 #1037]  INFO -- : master complete
+I, [2024-10-13T06:00:31.805971 #1047]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-13T06:00:31.813733 #1047]  INFO -- : worker=0 spawning...
+I, [2024-10-13T06:00:31.815069 #1047]  INFO -- : master process ready
+I, [2024-10-13T06:00:31.815719 #1048]  INFO -- : worker=0 spawned pid=1048
+I, [2024-10-13T06:00:31.816023 #1048]  INFO -- : Refreshing Gem list
+I, [2024-10-13T06:00:36.053828 #1048]  INFO -- : worker=0 ready
+I, [2024-10-13T23:00:50.720964 #1047]  INFO -- : reaped #<Process::Status: pid 1048 exit 0> worker=0
+I, [2024-10-13T23:00:50.723291 #1047]  INFO -- : master complete
+I, [2024-10-14T06:00:40.005862 #1036]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-14T06:00:40.010773 #1036]  INFO -- : worker=0 spawning...
+I, [2024-10-14T06:00:40.015144 #1036]  INFO -- : master process ready
+I, [2024-10-14T06:00:40.015446 #1037]  INFO -- : worker=0 spawned pid=1037
+I, [2024-10-14T06:00:40.015679 #1037]  INFO -- : Refreshing Gem list
+I, [2024-10-14T06:00:43.355794 #1037]  INFO -- : worker=0 ready
+I, [2024-10-14T23:00:50.439824 #1036]  INFO -- : reaped #<Process::Status: pid 1037 exit 0> worker=0
+I, [2024-10-14T23:00:50.444240 #1036]  INFO -- : master complete
+I, [2024-10-15T06:00:31.073913 #968]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-15T06:00:31.076487 #968]  INFO -- : worker=0 spawning...
+I, [2024-10-15T06:00:31.083004 #968]  INFO -- : master process ready
+I, [2024-10-15T06:00:31.084272 #970]  INFO -- : worker=0 spawned pid=970
+I, [2024-10-15T06:00:31.084517 #970]  INFO -- : Refreshing Gem list
+I, [2024-10-15T06:00:35.176472 #970]  INFO -- : worker=0 ready
+I, [2024-10-15T23:00:50.874406 #968]  INFO -- : reaped #<Process::Status: pid 970 exit 0> worker=0
+I, [2024-10-15T23:00:50.886496 #968]  INFO -- : master complete
+I, [2024-10-16T06:00:31.917190 #1034]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-16T06:00:31.919956 #1034]  INFO -- : worker=0 spawning...
+I, [2024-10-16T06:00:31.921224 #1034]  INFO -- : master process ready
+I, [2024-10-16T06:00:31.926151 #1035]  INFO -- : worker=0 spawned pid=1035
+I, [2024-10-16T06:00:31.926381 #1035]  INFO -- : Refreshing Gem list
+I, [2024-10-16T06:00:35.450234 #1035]  INFO -- : worker=0 ready
+I, [2024-10-16T06:27:24.534442 #1034]  INFO -- : reaped #<Process::Status: pid 1035 exit 0> worker=0
+I, [2024-10-16T06:27:24.539803 #1034]  INFO -- : master complete
+I, [2024-10-16T06:27:25.852456 #1863]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-16T06:27:25.852865 #1863]  INFO -- : worker=0 spawning...
+I, [2024-10-16T06:27:25.854624 #1863]  INFO -- : master process ready
+I, [2024-10-16T06:27:25.856207 #1864]  INFO -- : worker=0 spawned pid=1864
+I, [2024-10-16T06:27:25.856432 #1864]  INFO -- : Refreshing Gem list
+I, [2024-10-16T06:27:28.802752 #1864]  INFO -- : worker=0 ready
+I, [2024-10-16T23:00:50.572008 #1863]  INFO -- : reaped #<Process::Status: pid 1864 exit 0> worker=0
+I, [2024-10-16T23:00:50.573931 #1863]  INFO -- : master complete
+I, [2024-10-17T06:00:34.281765 #1107]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-17T06:00:34.283358 #1107]  INFO -- : worker=0 spawning...
+I, [2024-10-17T06:00:34.285357 #1107]  INFO -- : master process ready
+I, [2024-10-17T06:00:34.288709 #1108]  INFO -- : worker=0 spawned pid=1108
+I, [2024-10-17T06:00:34.290711 #1108]  INFO -- : Refreshing Gem list
+I, [2024-10-17T06:00:38.694326 #1108]  INFO -- : worker=0 ready
+I, [2024-10-17T23:00:50.239135 #1107]  INFO -- : reaped #<Process::Status: pid 1108 exit 0> worker=0
+I, [2024-10-17T23:00:50.240660 #1107]  INFO -- : master complete
+I, [2024-10-18T06:00:34.819763 #1131]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-18T06:00:34.823925 #1131]  INFO -- : worker=0 spawning...
+I, [2024-10-18T06:00:34.825884 #1131]  INFO -- : master process ready
+I, [2024-10-18T06:00:34.827348 #1133]  INFO -- : worker=0 spawned pid=1133
+I, [2024-10-18T06:00:34.827566 #1133]  INFO -- : Refreshing Gem list
+I, [2024-10-18T06:00:40.086211 #1133]  INFO -- : worker=0 ready
+I, [2024-10-18T23:00:50.142189 #1131]  INFO -- : reaped #<Process::Status: pid 1133 exit 0> worker=0
+I, [2024-10-18T23:00:50.144296 #1131]  INFO -- : master complete
+I, [2024-10-19T06:00:33.317991 #1033]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-19T06:00:33.321568 #1033]  INFO -- : worker=0 spawning...
+I, [2024-10-19T06:00:33.326299 #1034]  INFO -- : worker=0 spawned pid=1034
+I, [2024-10-19T06:00:33.326608 #1034]  INFO -- : Refreshing Gem list
+I, [2024-10-19T06:00:33.326619 #1033]  INFO -- : master process ready
+I, [2024-10-19T06:00:36.921939 #1034]  INFO -- : worker=0 ready
+I, [2024-10-19T23:00:50.720384 #1033]  INFO -- : reaped #<Process::Status: pid 1034 exit 0> worker=0
+I, [2024-10-19T23:00:50.722662 #1033]  INFO -- : master complete
+I, [2024-10-20T06:00:41.454645 #1043]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-20T06:00:41.457120 #1043]  INFO -- : worker=0 spawning...
+I, [2024-10-20T06:00:41.459644 #1043]  INFO -- : master process ready
+I, [2024-10-20T06:00:41.461378 #1044]  INFO -- : worker=0 spawned pid=1044
+I, [2024-10-20T06:00:41.461644 #1044]  INFO -- : Refreshing Gem list
+I, [2024-10-20T06:00:45.158813 #1044]  INFO -- : worker=0 ready
+I, [2024-10-20T23:00:50.337290 #1043]  INFO -- : reaped #<Process::Status: pid 1044 exit 0> worker=0
+I, [2024-10-20T23:00:50.341415 #1043]  INFO -- : master complete
+I, [2024-10-21T06:00:34.876719 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-21T06:00:34.881512 #1037]  INFO -- : worker=0 spawning...
+I, [2024-10-21T06:00:34.883100 #1037]  INFO -- : master process ready
+I, [2024-10-21T06:00:34.885417 #1041]  INFO -- : worker=0 spawned pid=1041
+I, [2024-10-21T06:00:34.885654 #1041]  INFO -- : Refreshing Gem list
+I, [2024-10-21T06:00:40.283244 #1041]  INFO -- : worker=0 ready
+I, [2024-10-21T23:00:50.584954 #1037]  INFO -- : reaped #<Process::Status: pid 1041 exit 0> worker=0
+I, [2024-10-21T23:00:50.587835 #1037]  INFO -- : master complete
+I, [2024-10-22T06:00:37.017752 #1037]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-22T06:00:37.022230 #1037]  INFO -- : worker=0 spawning...
+I, [2024-10-22T06:00:37.026633 #1038]  INFO -- : worker=0 spawned pid=1038
+I, [2024-10-22T06:00:37.026881 #1038]  INFO -- : Refreshing Gem list
+I, [2024-10-22T06:00:37.028383 #1037]  INFO -- : master process ready
+I, [2024-10-22T06:00:41.955755 #1038]  INFO -- : worker=0 ready
+I, [2024-10-22T23:00:50.953473 #1037]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=0
+I, [2024-10-22T23:00:50.960214 #1037]  INFO -- : master complete
+I, [2024-10-23T06:00:33.540014 #1039]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-23T06:00:33.541917 #1039]  INFO -- : worker=0 spawning...
+I, [2024-10-23T06:00:33.543296 #1039]  INFO -- : master process ready
+I, [2024-10-23T06:00:33.543579 #1040]  INFO -- : worker=0 spawned pid=1040
+I, [2024-10-23T06:00:33.543793 #1040]  INFO -- : Refreshing Gem list
+I, [2024-10-23T06:00:38.336298 #1040]  INFO -- : worker=0 ready
+I, [2024-10-23T23:00:50.292714 #1039]  INFO -- : reaped #<Process::Status: pid 1040 exit 0> worker=0
+I, [2024-10-23T23:00:50.299213 #1039]  INFO -- : master complete
+I, [2024-10-24T06:00:33.489722 #1038]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-24T06:00:33.491744 #1038]  INFO -- : worker=0 spawning...
+I, [2024-10-24T06:00:33.493564 #1038]  INFO -- : master process ready
+I, [2024-10-24T06:00:33.495060 #1039]  INFO -- : worker=0 spawned pid=1039
+I, [2024-10-24T06:00:33.495263 #1039]  INFO -- : Refreshing Gem list
+I, [2024-10-24T06:00:37.045413 #1039]  INFO -- : worker=0 ready
+I, [2024-10-24T23:00:50.335263 #1038]  INFO -- : reaped #<Process::Status: pid 1039 exit 0> worker=0
+I, [2024-10-24T23:00:50.338172 #1038]  INFO -- : master complete
+I, [2024-10-25T06:00:35.392894 #1132]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-25T06:00:35.394845 #1132]  INFO -- : worker=0 spawning...
+I, [2024-10-25T06:00:35.401780 #1132]  INFO -- : master process ready
+I, [2024-10-25T06:00:35.407058 #1133]  INFO -- : worker=0 spawned pid=1133
+I, [2024-10-25T06:00:35.407323 #1133]  INFO -- : Refreshing Gem list
+I, [2024-10-25T06:00:42.101067 #1133]  INFO -- : worker=0 ready
+I, [2024-10-25T23:00:51.232672 #1132]  INFO -- : reaped #<Process::Status: pid 1133 exit 0> worker=0
+I, [2024-10-25T23:00:51.245096 #1132]  INFO -- : master complete
+I, [2024-10-26T06:00:32.129105 #1015]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-26T06:00:32.130563 #1015]  INFO -- : worker=0 spawning...
+I, [2024-10-26T06:00:32.132914 #1015]  INFO -- : master process ready
+I, [2024-10-26T06:00:32.140236 #1025]  INFO -- : worker=0 spawned pid=1025
+I, [2024-10-26T06:00:32.140524 #1025]  INFO -- : Refreshing Gem list
+I, [2024-10-26T06:00:37.784576 #1025]  INFO -- : worker=0 ready
+I, [2024-10-26T23:00:50.632326 #1015]  INFO -- : reaped #<Process::Status: pid 1025 exit 0> worker=0
+I, [2024-10-26T23:00:50.635167 #1015]  INFO -- : master complete
+I, [2024-10-27T06:00:33.530263 #1047]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-27T06:00:33.531612 #1047]  INFO -- : worker=0 spawning...
+I, [2024-10-27T06:00:33.532862 #1047]  INFO -- : master process ready
+I, [2024-10-27T06:00:33.534035 #1048]  INFO -- : worker=0 spawned pid=1048
+I, [2024-10-27T06:00:33.534229 #1048]  INFO -- : Refreshing Gem list
+I, [2024-10-27T06:00:36.901787 #1048]  INFO -- : worker=0 ready
+I, [2024-10-27T23:00:50.542936 #1047]  INFO -- : reaped #<Process::Status: pid 1048 exit 0> worker=0
+I, [2024-10-27T23:00:50.546830 #1047]  INFO -- : master complete
+I, [2024-10-28T06:00:32.965173 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-28T06:00:32.967846 #1045]  INFO -- : worker=0 spawning...
+I, [2024-10-28T06:00:32.969940 #1045]  INFO -- : master process ready
+I, [2024-10-28T06:00:32.972439 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-10-28T06:00:32.972691 #1046]  INFO -- : Refreshing Gem list
+I, [2024-10-28T06:00:37.745177 #1046]  INFO -- : worker=0 ready
+I, [2024-10-28T23:00:50.683053 #1045]  INFO -- : reaped #<Process::Status: pid 1046 exit 0> worker=0
+I, [2024-10-28T23:00:50.687634 #1045]  INFO -- : master complete
+I, [2024-10-29T06:00:35.512892 #978]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-29T06:00:35.528078 #978]  INFO -- : worker=0 spawning...
+I, [2024-10-29T06:00:35.529688 #978]  INFO -- : master process ready
+I, [2024-10-29T06:00:35.530592 #979]  INFO -- : worker=0 spawned pid=979
+I, [2024-10-29T06:00:35.531132 #979]  INFO -- : Refreshing Gem list
+I, [2024-10-29T06:00:40.295981 #979]  INFO -- : worker=0 ready
+I, [2024-10-29T23:00:50.406321 #978]  INFO -- : reaped #<Process::Status: pid 979 exit 0> worker=0
+I, [2024-10-29T23:00:50.408882 #978]  INFO -- : master complete
+I, [2024-10-30T06:00:35.319625 #1049]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-30T06:00:35.327976 #1049]  INFO -- : worker=0 spawning...
+I, [2024-10-30T06:00:35.329346 #1049]  INFO -- : master process ready
+I, [2024-10-30T06:00:35.330482 #1056]  INFO -- : worker=0 spawned pid=1056
+I, [2024-10-30T06:00:35.330679 #1056]  INFO -- : Refreshing Gem list
+I, [2024-10-30T06:00:40.838620 #1056]  INFO -- : worker=0 ready
+I, [2024-10-30T23:00:50.133208 #1049]  INFO -- : reaped #<Process::Status: pid 1056 exit 0> worker=0
+I, [2024-10-30T23:00:50.137033 #1049]  INFO -- : master complete
+I, [2024-10-31T06:00:31.848667 #968]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-10-31T06:00:31.850798 #968]  INFO -- : worker=0 spawning...
+I, [2024-10-31T06:00:31.852488 #968]  INFO -- : master process ready
+I, [2024-10-31T06:00:31.853751 #969]  INFO -- : worker=0 spawned pid=969
+I, [2024-10-31T06:00:31.853966 #969]  INFO -- : Refreshing Gem list
+I, [2024-10-31T06:00:36.354945 #969]  INFO -- : worker=0 ready
+I, [2024-10-31T23:00:50.227221 #968]  INFO -- : reaped #<Process::Status: pid 969 exit 0> worker=0
+I, [2024-10-31T23:00:50.228670 #968]  INFO -- : master complete
+I, [2024-11-01T06:00:33.143055 #1112]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-01T06:00:33.145860 #1112]  INFO -- : worker=0 spawning...
+I, [2024-11-01T06:00:33.149006 #1113]  INFO -- : worker=0 spawned pid=1113
+I, [2024-11-01T06:00:33.149270 #1113]  INFO -- : Refreshing Gem list
+I, [2024-11-01T06:00:33.150659 #1112]  INFO -- : master process ready
+I, [2024-11-01T06:00:36.539909 #1113]  INFO -- : worker=0 ready
+I, [2024-11-01T23:00:50.370652 #1112]  INFO -- : reaped #<Process::Status: pid 1113 exit 0> worker=0
+I, [2024-11-01T23:00:50.387823 #1112]  INFO -- : master complete
+I, [2024-11-02T06:00:34.624135 #1105]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-02T06:00:34.625719 #1105]  INFO -- : worker=0 spawning...
+I, [2024-11-02T06:00:34.628938 #1105]  INFO -- : master process ready
+I, [2024-11-02T06:00:34.629240 #1106]  INFO -- : worker=0 spawned pid=1106
+I, [2024-11-02T06:00:34.629448 #1106]  INFO -- : Refreshing Gem list
+I, [2024-11-02T06:00:38.482161 #1106]  INFO -- : worker=0 ready
+I, [2024-11-02T23:00:50.634878 #1105]  INFO -- : reaped #<Process::Status: pid 1106 exit 0> worker=0
+I, [2024-11-02T23:00:50.644255 #1105]  INFO -- : master complete
+I, [2024-11-03T06:00:31.749765 #1046]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-03T06:00:31.752174 #1046]  INFO -- : worker=0 spawning...
+I, [2024-11-03T06:00:31.753397 #1046]  INFO -- : master process ready
+I, [2024-11-03T06:00:31.755975 #1047]  INFO -- : worker=0 spawned pid=1047
+I, [2024-11-03T06:00:31.756164 #1047]  INFO -- : Refreshing Gem list
+I, [2024-11-03T06:00:36.943814 #1047]  INFO -- : worker=0 ready
+I, [2024-11-03T23:00:50.094139 #1046]  INFO -- : reaped #<Process::Status: pid 1047 exit 0> worker=0
+I, [2024-11-03T23:00:50.097199 #1046]  INFO -- : master complete
+I, [2024-11-04T06:00:33.532073 #1056]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-04T06:00:33.535479 #1056]  INFO -- : worker=0 spawning...
+I, [2024-11-04T06:00:33.538015 #1056]  INFO -- : master process ready
+I, [2024-11-04T06:00:33.542271 #1060]  INFO -- : worker=0 spawned pid=1060
+I, [2024-11-04T06:00:33.542504 #1060]  INFO -- : Refreshing Gem list
+I, [2024-11-04T06:00:38.072434 #1060]  INFO -- : worker=0 ready
+I, [2024-11-04T23:00:50.799723 #1056]  INFO -- : reaped #<Process::Status: pid 1060 exit 0> worker=0
+I, [2024-11-04T23:00:50.801047 #1056]  INFO -- : master complete
+I, [2024-11-05T06:00:40.902854 #1136]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-05T06:00:40.917372 #1136]  INFO -- : worker=0 spawning...
+I, [2024-11-05T06:00:40.921037 #1136]  INFO -- : master process ready
+I, [2024-11-05T06:00:40.921810 #1137]  INFO -- : worker=0 spawned pid=1137
+I, [2024-11-05T06:00:40.921998 #1137]  INFO -- : Refreshing Gem list
+I, [2024-11-05T06:00:46.448173 #1137]  INFO -- : worker=0 ready
+I, [2024-11-05T23:00:50.267684 #1136]  INFO -- : reaped #<Process::Status: pid 1137 exit 0> worker=0
+I, [2024-11-05T23:00:50.269308 #1136]  INFO -- : master complete
+I, [2024-11-06T06:00:35.193587 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-06T06:00:35.197875 #1045]  INFO -- : worker=0 spawning...
+I, [2024-11-06T06:00:35.201030 #1045]  INFO -- : master process ready
+I, [2024-11-06T06:00:35.201264 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-11-06T06:00:35.201471 #1046]  INFO -- : Refreshing Gem list
+I, [2024-11-06T06:00:39.125121 #1046]  INFO -- : worker=0 ready
+I, [2024-11-06T23:00:50.104651 #1045]  INFO -- : reaped #<Process::Status: pid 1046 exit 0> worker=0
+I, [2024-11-06T23:00:50.106121 #1045]  INFO -- : master complete
+I, [2024-11-07T06:00:32.618334 #1038]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-07T06:00:32.619675 #1038]  INFO -- : worker=0 spawning...
+I, [2024-11-07T06:00:32.621730 #1038]  INFO -- : master process ready
+I, [2024-11-07T06:00:32.623588 #1039]  INFO -- : worker=0 spawned pid=1039
+I, [2024-11-07T06:00:32.623841 #1039]  INFO -- : Refreshing Gem list
+I, [2024-11-07T06:00:38.495072 #1039]  INFO -- : worker=0 ready
+I, [2024-11-07T23:00:51.293608 #1038]  INFO -- : reaped #<Process::Status: pid 1039 exit 0> worker=0
+I, [2024-11-07T23:00:51.296003 #1038]  INFO -- : master complete
+I, [2024-11-08T06:00:36.735458 #1049]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-08T06:00:36.739026 #1049]  INFO -- : worker=0 spawning...
+I, [2024-11-08T06:00:36.743452 #1049]  INFO -- : master process ready
+I, [2024-11-08T06:00:36.745554 #1050]  INFO -- : worker=0 spawned pid=1050
+I, [2024-11-08T06:00:36.745843 #1050]  INFO -- : Refreshing Gem list
+I, [2024-11-08T06:00:40.901681 #1050]  INFO -- : worker=0 ready
+I, [2024-11-08T23:00:51.386894 #1049]  INFO -- : reaped #<Process::Status: pid 1050 exit 0> worker=0
+I, [2024-11-08T23:00:51.391378 #1049]  INFO -- : master complete
+I, [2024-11-09T06:00:33.738389 #1116]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-09T06:00:33.745247 #1116]  INFO -- : worker=0 spawning...
+I, [2024-11-09T06:00:33.746796 #1116]  INFO -- : master process ready
+I, [2024-11-09T06:00:33.749315 #1117]  INFO -- : worker=0 spawned pid=1117
+I, [2024-11-09T06:00:33.749531 #1117]  INFO -- : Refreshing Gem list
+I, [2024-11-09T06:00:37.537617 #1117]  INFO -- : worker=0 ready
+I, [2024-11-09T23:00:50.270354 #1116]  INFO -- : reaped #<Process::Status: pid 1117 exit 0> worker=0
+I, [2024-11-09T23:00:50.271834 #1116]  INFO -- : master complete
+I, [2024-11-10T06:00:33.432537 #1052]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-10T06:00:33.433884 #1052]  INFO -- : worker=0 spawning...
+I, [2024-11-10T06:00:33.436357 #1052]  INFO -- : master process ready
+I, [2024-11-10T06:00:33.441583 #1054]  INFO -- : worker=0 spawned pid=1054
+I, [2024-11-10T06:00:33.444254 #1054]  INFO -- : Refreshing Gem list
+I, [2024-11-10T06:00:37.498793 #1054]  INFO -- : worker=0 ready
+I, [2024-11-10T23:00:50.089790 #1052]  INFO -- : reaped #<Process::Status: pid 1054 exit 0> worker=0
+I, [2024-11-10T23:00:50.098272 #1052]  INFO -- : master complete
+I, [2024-11-11T06:00:32.085825 #1051]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-11T06:00:32.089672 #1051]  INFO -- : worker=0 spawning...
+I, [2024-11-11T06:00:32.092538 #1051]  INFO -- : master process ready
+I, [2024-11-11T06:00:32.099388 #1052]  INFO -- : worker=0 spawned pid=1052
+I, [2024-11-11T06:00:32.099906 #1052]  INFO -- : Refreshing Gem list
+I, [2024-11-11T06:00:37.643684 #1052]  INFO -- : worker=0 ready
+I, [2024-11-11T23:00:50.442810 #1051]  INFO -- : reaped #<Process::Status: pid 1052 exit 0> worker=0
+I, [2024-11-11T23:00:50.446678 #1051]  INFO -- : master complete
+I, [2024-11-12T06:01:07.022015 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-12T06:01:07.023823 #1045]  INFO -- : worker=0 spawning...
+I, [2024-11-12T06:01:07.025167 #1045]  INFO -- : master process ready
+I, [2024-11-12T06:01:07.026406 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-11-12T06:01:07.032207 #1046]  INFO -- : Refreshing Gem list
+I, [2024-11-12T06:01:13.205239 #1046]  INFO -- : worker=0 ready
+I, [2024-11-12T23:00:50.581589 #1045]  INFO -- : reaped #<Process::Status: pid 1046 exit 0> worker=0
+I, [2024-11-12T23:00:50.583516 #1045]  INFO -- : master complete
+I, [2024-11-13T06:00:32.241922 #1045]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-13T06:00:32.254554 #1045]  INFO -- : worker=0 spawning...
+I, [2024-11-13T06:00:32.255779 #1045]  INFO -- : master process ready
+I, [2024-11-13T06:00:32.256110 #1046]  INFO -- : worker=0 spawned pid=1046
+I, [2024-11-13T06:00:32.256311 #1046]  INFO -- : Refreshing Gem list
+I, [2024-11-13T06:00:36.036512 #1046]  INFO -- : worker=0 ready
+I, [2024-11-13T23:00:50.369050 #1045]  INFO -- : reaped #<Process::Status: pid 1046 exit 0> worker=0
+I, [2024-11-13T23:00:50.376220 #1045]  INFO -- : master complete
+I, [2024-11-14T06:00:32.440124 #1047]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-14T06:00:32.442019 #1047]  INFO -- : worker=0 spawning...
+I, [2024-11-14T06:00:32.443437 #1047]  INFO -- : master process ready
+I, [2024-11-14T06:00:32.446112 #1048]  INFO -- : worker=0 spawned pid=1048
+I, [2024-11-14T06:00:32.446340 #1048]  INFO -- : Refreshing Gem list
+I, [2024-11-14T06:00:36.762022 #1048]  INFO -- : worker=0 ready
+I, [2024-11-14T23:00:50.458024 #1047]  INFO -- : reaped #<Process::Status: pid 1048 exit 0> worker=0
+I, [2024-11-14T23:00:50.462633 #1047]  INFO -- : master complete
+I, [2024-11-15T06:00:38.009917 #1047]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-15T06:00:38.017853 #1047]  INFO -- : worker=0 spawning...
+I, [2024-11-15T06:00:38.019360 #1047]  INFO -- : master process ready
+I, [2024-11-15T06:00:38.020062 #1048]  INFO -- : worker=0 spawned pid=1048
+I, [2024-11-15T06:00:38.020241 #1048]  INFO -- : Refreshing Gem list
+I, [2024-11-15T06:00:42.566214 #1048]  INFO -- : worker=0 ready
+I, [2024-11-15T23:00:49.995679 #1047]  INFO -- : reaped #<Process::Status: pid 1048 exit 0> worker=0
+I, [2024-11-15T23:00:49.997443 #1047]  INFO -- : master complete
+I, [2024-11-16T06:00:31.331571 #1057]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-16T06:00:31.334338 #1057]  INFO -- : worker=0 spawning...
+I, [2024-11-16T06:00:31.347185 #1057]  INFO -- : master process ready
+I, [2024-11-16T06:00:31.348759 #1058]  INFO -- : worker=0 spawned pid=1058
+I, [2024-11-16T06:00:31.349009 #1058]  INFO -- : Refreshing Gem list
+I, [2024-11-16T06:00:37.287206 #1058]  INFO -- : worker=0 ready
+I, [2024-11-16T23:00:50.162942 #1057]  INFO -- : reaped #<Process::Status: pid 1058 exit 0> worker=0
+I, [2024-11-16T23:00:50.166656 #1057]  INFO -- : master complete
+I, [2024-11-17T06:00:36.035712 #1051]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-17T06:00:36.040488 #1051]  INFO -- : worker=0 spawning...
+I, [2024-11-17T06:00:36.041828 #1051]  INFO -- : master process ready
+I, [2024-11-17T06:00:36.045623 #1052]  INFO -- : worker=0 spawned pid=1052
+I, [2024-11-17T06:00:36.045877 #1052]  INFO -- : Refreshing Gem list
+I, [2024-11-17T06:00:40.022098 #1052]  INFO -- : worker=0 ready
+Bad request content body
+I, [2024-11-17T23:00:50.105791 #1051]  INFO -- : reaped #<Process::Status: pid 1052 exit 0> worker=0
+I, [2024-11-17T23:00:50.106045 #1051]  INFO -- : master complete
+I, [2024-11-18T06:00:35.909074 #980]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-18T06:00:35.911177 #980]  INFO -- : worker=0 spawning...
+I, [2024-11-18T06:00:35.919655 #980]  INFO -- : master process ready
+I, [2024-11-18T06:00:35.926558 #981]  INFO -- : worker=0 spawned pid=981
+I, [2024-11-18T06:00:35.926883 #981]  INFO -- : Refreshing Gem list
+I, [2024-11-18T06:00:40.181085 #981]  INFO -- : worker=0 ready
+I, [2024-11-18T23:00:51.299091 #980]  INFO -- : reaped #<Process::Status: pid 981 exit 0> worker=0
+I, [2024-11-18T23:00:51.305500 #980]  INFO -- : master complete
+I, [2024-11-19T06:00:36.778117 #1066]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-19T06:00:36.791671 #1066]  INFO -- : worker=0 spawning...
+I, [2024-11-19T06:00:36.793261 #1066]  INFO -- : master process ready
+I, [2024-11-19T06:00:36.797130 #1068]  INFO -- : worker=0 spawned pid=1068
+I, [2024-11-19T06:00:36.797473 #1068]  INFO -- : Refreshing Gem list
+I, [2024-11-19T06:00:43.458108 #1068]  INFO -- : worker=0 ready
+I, [2024-11-19T23:00:50.423580 #1066]  INFO -- : reaped #<Process::Status: pid 1068 exit 0> worker=0
+I, [2024-11-19T23:00:50.427000 #1066]  INFO -- : master complete
+I, [2024-11-20T06:00:32.411492 #1115]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-20T06:00:32.413674 #1115]  INFO -- : worker=0 spawning...
+I, [2024-11-20T06:00:32.415277 #1115]  INFO -- : master process ready
+I, [2024-11-20T06:00:32.416664 #1116]  INFO -- : worker=0 spawned pid=1116
+I, [2024-11-20T06:00:32.416883 #1116]  INFO -- : Refreshing Gem list
+I, [2024-11-20T06:00:36.175579 #1116]  INFO -- : worker=0 ready
+I, [2024-11-20T23:00:49.934126 #1115]  INFO -- : reaped #<Process::Status: pid 1116 exit 0> worker=0
+I, [2024-11-20T23:00:49.936492 #1115]  INFO -- : master complete
+I, [2024-11-21T06:00:31.547493 #1112]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-21T06:00:31.548902 #1112]  INFO -- : worker=0 spawning...
+I, [2024-11-21T06:00:31.550197 #1112]  INFO -- : master process ready
+I, [2024-11-21T06:00:31.552808 #1113]  INFO -- : worker=0 spawned pid=1113
+I, [2024-11-21T06:00:31.552998 #1113]  INFO -- : Refreshing Gem list
+I, [2024-11-21T06:00:36.418134 #1113]  INFO -- : worker=0 ready
+I, [2024-11-21T23:00:50.045061 #1112]  INFO -- : reaped #<Process::Status: pid 1113 exit 0> worker=0
+I, [2024-11-21T23:00:50.056599 #1112]  INFO -- : master complete
+I, [2024-11-22T06:00:36.907160 #1042]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-22T06:00:36.909250 #1042]  INFO -- : worker=0 spawning...
+I, [2024-11-22T06:00:36.910629 #1042]  INFO -- : master process ready
+I, [2024-11-22T06:00:36.912531 #1043]  INFO -- : worker=0 spawned pid=1043
+I, [2024-11-22T06:00:36.912748 #1043]  INFO -- : Refreshing Gem list
+I, [2024-11-22T06:00:40.734128 #1043]  INFO -- : worker=0 ready
+I, [2024-11-22T23:00:50.532511 #1042]  INFO -- : reaped #<Process::Status: pid 1043 exit 0> worker=0
+I, [2024-11-22T23:00:50.541090 #1042]  INFO -- : master complete
+I, [2024-11-23T06:00:31.901105 #1040]  INFO -- : listening on addr=0.0.0.0:8080 fd=8
+I, [2024-11-23T06:00:31.902795 #1040]  INFO -- : worker=0 spawning...
+I, [2024-11-23T06:00:31.904640 #1040]  INFO -- : master process ready
+I, [2024-11-23T06:00:31.905507 #1041]  INFO -- : worker=0 spawned pid=1041
+I, [2024-11-23T06:00:31.905715 #1041]  INFO -- : Refreshing Gem list
+I, [2024-11-23T06:00:35.292274 #1041]  INFO -- : worker=0 ready
